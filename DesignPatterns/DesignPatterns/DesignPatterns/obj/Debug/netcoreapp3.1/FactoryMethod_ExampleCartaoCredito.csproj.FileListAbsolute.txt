@@ -1,0 +1,12 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\FactoryMethod_ExampleCartaoCredito.genruntimeconfig.cache
