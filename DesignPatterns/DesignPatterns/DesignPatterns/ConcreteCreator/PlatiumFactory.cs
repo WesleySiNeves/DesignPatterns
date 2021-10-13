@@ -1,13 +1,6 @@
-﻿using DesignPatterns.Creator;
-using DesignPatterns.Product.Abstract;
-using DesignPatterns.Product.Concrect;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatterns.ConcreteCreator
+﻿namespace CartaoCredito.ConcreteCreator
 {
-    public class PlatiumFactory : CartaoFactory
+    public class PlatiumFactory : Creator.CartaoFactory
     {
         private int _limiteCredito;
         private int _cobrancaAnual;
@@ -18,9 +11,9 @@ namespace DesignPatterns.ConcreteCreator
             _cobrancaAnual = cobrancaAnual;
 
         }
-        public override CartaoCredito NewCreator()
+        public override IProduct.CartaoCredito NewCreator()
         {
-            return new CartaoPlatium(_limiteCredito, _cobrancaAnual);
+            return new ProductConcrete.CartaoPlatium(_limiteCredito, _cobrancaAnual);
         }
     }
 }

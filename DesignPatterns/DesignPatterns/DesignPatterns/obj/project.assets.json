@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\FactoryMethod_ExampleCartaoCredito.csproj",
-      "projectName": "FactoryMethod_ExampleCartaoCredito",
-      "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\FactoryMethod_ExampleCartaoCredito.csproj",
+      "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\CartaoCredito.csproj",
+      "projectName": "CartaoCredito",
+      "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\CartaoCredito.csproj",
       "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
       "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

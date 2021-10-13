@@ -1,0 +1,8 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethods.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethods.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethods.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethods.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethods.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethods.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethods.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethods.pdb

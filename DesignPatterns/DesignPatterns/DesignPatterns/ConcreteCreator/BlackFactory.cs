@@ -1,13 +1,10 @@
-﻿using DesignPatterns.Creator;
-using DesignPatterns.Product.Abstract;
-using DesignPatterns.Product.Concrect;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DesignPatterns.ConcreteCreator
+﻿namespace CartaoCredito.ConcreteCreator
 {
-    public class BlackFactory : CartaoFactory
+    /// <summary>
+    /// Implementação do Factory
+    /// Sobrescreve a classe Virtual ou implementa a interface 
+    /// </summary>
+    public class BlackFactory : Creator.CartaoFactory
     {
         private int _limiteCredito;
         private int _cobrancaAnual;
@@ -18,9 +15,9 @@ namespace DesignPatterns.ConcreteCreator
             _cobrancaAnual = cobrancaAnual;
 
         }
-        public override CartaoCredito NewCreator()
+        public override IProduct.CartaoCredito NewCreator()
         {
-            return new CartaoBlack(_limiteCredito, _cobrancaAnual);
+            return new ProductConcrete.CartaoBlack(_limiteCredito, _cobrancaAnual);
         }
     }
 }

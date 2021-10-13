@@ -1,0 +1,14 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\bin\Debug\netcoreapp3.1\DemoSample.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\DemoSample\obj\Debug\netcoreapp3.1\DemoSample.genruntimeconfig.cache

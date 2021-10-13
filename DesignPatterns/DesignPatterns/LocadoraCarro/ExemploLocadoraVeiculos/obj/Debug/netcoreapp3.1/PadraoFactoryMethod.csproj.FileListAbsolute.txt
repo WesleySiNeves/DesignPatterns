@@ -1,0 +1,8 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\ExemploLocadoraVeiculos\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb

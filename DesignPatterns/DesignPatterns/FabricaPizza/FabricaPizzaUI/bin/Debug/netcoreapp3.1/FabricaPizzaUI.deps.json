@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FabricaPizzaUI/1.0.0": {
+        "dependencies": {
+          "PadraoFactoryMethod": "1.0.0"
+        },
+        "runtime": {
+          "FabricaPizzaUI.dll": {}
+        }
+      },
+      "PadraoFactoryMethod/1.0.0": {
+        "runtime": {
+          "PadraoFactoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FabricaPizzaUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PadraoFactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

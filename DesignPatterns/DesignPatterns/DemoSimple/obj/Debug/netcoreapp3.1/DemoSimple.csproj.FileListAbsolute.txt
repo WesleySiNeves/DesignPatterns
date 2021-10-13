@@ -1,0 +1,13 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\bin\Debug\netcoreapp3.1\DemoSimple.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.genruntimeconfig.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LanchoneteUI/1.0.0": {
+        "dependencies": {
+          "PadraoAbstractFactory": "1.0.0"
+        },
+        "runtime": {
+          "LanchoneteUI.dll": {}
+        }
+      },
+      "PadraoAbstractFactory/1.0.0": {
+        "runtime": {
+          "PadraoAbstractFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanchoneteUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PadraoAbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
