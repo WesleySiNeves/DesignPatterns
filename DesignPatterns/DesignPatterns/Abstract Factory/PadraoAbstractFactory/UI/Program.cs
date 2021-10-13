@@ -12,13 +12,13 @@ namespace UI
             var americanFactory = new AmericanFactory();
 
             AnimalWorld animalWorld = new AnimalWorld(americanFactory);
-            animalWorld.RunFoodChain();
+            animalWorld.Run();
 
 
             var africafactory = new AfricaFactory();
 
             AnimalWorld animalWorld_2 = new AnimalWorld(africafactory);
-            animalWorld_2.RunFoodChain();
+            animalWorld_2.Run();
 
             Console.ReadKey();
         }

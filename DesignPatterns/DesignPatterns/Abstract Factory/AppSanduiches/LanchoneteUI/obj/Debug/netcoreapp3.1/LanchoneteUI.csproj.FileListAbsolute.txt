@@ -16,3 +16,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Fact
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppSanduiches\LanchoneteUI\obj\Debug\netcoreapp3.1\LanchoneteUI.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppSanduiches\LanchoneteUI\bin\Debug\netcoreapp3.1\PadraoAbstractFactory.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppSanduiches\LanchoneteUI\bin\Debug\netcoreapp3.1\PadraoAbstractFactory.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppSanduiches\LanchoneteUI\obj\Debug\netcoreapp3.1\LanchoneteUI.csproj.CopyComplete

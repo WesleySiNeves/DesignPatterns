@@ -1,0 +1,4 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppFabricaPizza\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppFabricaPizza\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppFabricaPizza\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppFabricaPizza\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.CoreCompileInputs.cache

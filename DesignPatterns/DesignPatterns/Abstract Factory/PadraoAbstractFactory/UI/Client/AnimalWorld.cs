@@ -17,7 +17,7 @@ namespace UI.Client
             _carnivore = factory.CreateCarnivore();
             _herbivore = factory.CreateHerbivore();
         }
-        public void RunFoodChain()
+        public void Run()
         {
             _herbivore.Comer();
             _carnivore.Comer(_herbivore);

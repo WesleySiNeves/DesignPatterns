@@ -47,23 +47,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract Factory", "Abstrac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Conceptual", "Conceptual", "{42541E6C-DEE0-4A2B-8549-743174784F2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSample", "Abstract Factory\DemoSample\DemoSample.csproj", "{BE6C6078-2CDB-45AB-BBC4-0A16B717E478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSample", "Abstract Factory\DemoSample\DemoSample.csproj", "{BE6C6078-2CDB-45AB-BBC4-0A16B717E478}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppContinetal", "AppContinetal", "{02CD2BA3-0773-4C60-945B-6A45EFCBF2A6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppContinental", "AppContinental", "{02CD2BA3-0773-4C60-945B-6A45EFCBF2A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadraoAbstractFactory", "Abstract Factory\PadraoAbstractFactory\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{25484BD1-409C-44C5-B368-E93CF7D32328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PadraoAbstractFactory", "Abstract Factory\PadraoAbstractFactory\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{25484BD1-409C-44C5-B368-E93CF7D32328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "Abstract Factory\PadraoAbstractFactory\UI\UI.csproj", "{2377D165-5238-419B-A239-5C9599E1D759}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "Abstract Factory\PadraoAbstractFactory\UI\UI.csproj", "{2377D165-5238-419B-A239-5C9599E1D759}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppDinosauros", "AppDinosauros", "{4B5CC5C0-767C-4F41-9425-341AA5A7A680}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppPrint", "AppPrint", "{4B5CC5C0-767C-4F41-9425-341AA5A7A680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadraoAbstractFactory", "Abstract Factory\AppDinossauros\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{87221B56-F5F4-475E-929D-B0E8D0521F8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PadraoAbstractFactory", "Abstract Factory\AppPrint\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{87221B56-F5F4-475E-929D-B0E8D0521F8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppSanduiches", "AppSanduiches", "{AA7930C3-74E4-4336-ABA3-FFC67CD8EF9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadraoAbstractFactory", "Abstract Factory\AppSanduiches\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{9A2EAC75-FB61-47A2-A8D3-A685511D9972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PadraoAbstractFactory", "Abstract Factory\AppSanduiches\PadraoAbstractFactory\PadraoAbstractFactory.csproj", "{9A2EAC75-FB61-47A2-A8D3-A685511D9972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanchoneteUI", "Abstract Factory\AppSanduiches\LanchoneteUI\LanchoneteUI.csproj", "{402F10A7-021B-476D-A3E2-DA16CF45A5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanchoneteUI", "Abstract Factory\AppSanduiches\LanchoneteUI\LanchoneteUI.csproj", "{402F10A7-021B-476D-A3E2-DA16CF45A5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "Abstract Factory\AppPrint\UI\UI.csproj", "{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{402F10A7-021B-476D-A3E2-DA16CF45A5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{402F10A7-021B-476D-A3E2-DA16CF45A5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{402F10A7-021B-476D-A3E2-DA16CF45A5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +172,7 @@ Global
 		{AA7930C3-74E4-4336-ABA3-FFC67CD8EF9C} = {1F4DB46A-2064-44CB-AF88-E83216C6D265}
 		{9A2EAC75-FB61-47A2-A8D3-A685511D9972} = {AA7930C3-74E4-4336-ABA3-FFC67CD8EF9C}
 		{402F10A7-021B-476D-A3E2-DA16CF45A5D4} = {AA7930C3-74E4-4336-ABA3-FFC67CD8EF9C}
+		{C94DA4F1-FFC3-46E4-844A-FA19F65C1C37} = {4B5CC5C0-767C-4F41-9425-341AA5A7A680}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66D654A7-2EFD-40C3-9C29-6161F208FF3C}

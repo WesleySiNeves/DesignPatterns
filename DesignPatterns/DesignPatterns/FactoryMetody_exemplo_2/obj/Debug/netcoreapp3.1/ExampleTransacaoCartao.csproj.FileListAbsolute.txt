@@ -11,3 +11,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FactoryMetody
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FactoryMetody_exemplo_2\obj\Debug\netcoreapp3.1\ExampleTransacaoCartao.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FactoryMetody_exemplo_2\obj\Debug\netcoreapp3.1\ExampleTransacaoCartao.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FactoryMetody_exemplo_2\obj\Debug\netcoreapp3.1\ExampleTransacaoCartao.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FactoryMetody_exemplo_2\obj\Debug\netcoreapp3.1\ExampleTransacaoCartao.GeneratedMSBuildEditorConfig.editorconfig

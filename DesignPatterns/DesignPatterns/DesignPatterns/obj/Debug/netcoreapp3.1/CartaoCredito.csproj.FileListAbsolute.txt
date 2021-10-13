@@ -11,3 +11,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPattern
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.GeneratedMSBuildEditorConfig.editorconfig

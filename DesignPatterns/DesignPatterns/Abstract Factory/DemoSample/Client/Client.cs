@@ -11,11 +11,11 @@ namespace DemoSample.Client
         public void Main()
         {
             // The client code can work with any concrete factory class.
-            Console.WriteLine("Client: Testing client code with the first factory type...");
+            Console.WriteLine("Client: Testando o código do cliente com o primeiro tipo de fábrica...");
             ClientMethod(new ConcreteFactory1());
             Console.WriteLine();
 
-            Console.WriteLine("Client: Testing the same client code with the second factory type...");
+            Console.WriteLine("Testando o mesmo código de cliente com o segundo tipo de fábrica...");
             ClientMethod(new ConcreteFactory2());
         }
 

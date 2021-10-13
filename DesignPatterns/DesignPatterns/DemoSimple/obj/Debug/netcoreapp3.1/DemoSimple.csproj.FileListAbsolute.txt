@@ -11,3 +11,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\ob
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DemoSimple\obj\Debug\netcoreapp3.1\DemoSimple.GeneratedMSBuildEditorConfig.editorconfig

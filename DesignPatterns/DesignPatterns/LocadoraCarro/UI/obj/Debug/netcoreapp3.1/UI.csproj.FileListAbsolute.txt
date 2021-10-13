@@ -14,3 +14,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig

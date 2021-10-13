@@ -23,3 +23,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
