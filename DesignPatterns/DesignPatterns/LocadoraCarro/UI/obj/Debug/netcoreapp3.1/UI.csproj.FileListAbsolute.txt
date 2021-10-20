@@ -10,7 +10,6 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LocadoraCarro\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

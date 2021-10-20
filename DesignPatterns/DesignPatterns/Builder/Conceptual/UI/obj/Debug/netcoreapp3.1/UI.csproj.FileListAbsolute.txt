@@ -1,0 +1,16 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\UI.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\Conceptual.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\bin\Debug\netcoreapp3.1\Conceptual.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache

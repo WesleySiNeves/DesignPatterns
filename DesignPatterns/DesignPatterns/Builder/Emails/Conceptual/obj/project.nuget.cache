@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNk/yGuAG6mjBxVuI7pQmgG5n7YC0RRkcoZ1julX9H3R96bgVQibV83Ujs/kmpLrW1BriNydKk9dBG6/uq8N+A==",
+  "success": true,
+  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\Emails\\Conceptual\\Conceptual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -17,3 +17,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Fact
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.AssemblyReference.cache

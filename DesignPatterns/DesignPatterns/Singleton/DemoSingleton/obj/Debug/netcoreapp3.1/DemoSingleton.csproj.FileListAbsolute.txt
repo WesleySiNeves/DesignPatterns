@@ -1,0 +1,10 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\bin\Debug\netcoreapp3.1\DemoSingleton.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\bin\Debug\netcoreapp3.1\DemoSingleton.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\bin\Debug\netcoreapp3.1\DemoSingleton.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton\obj\Debug\netcoreapp3.1\DemoSingleton.pdb

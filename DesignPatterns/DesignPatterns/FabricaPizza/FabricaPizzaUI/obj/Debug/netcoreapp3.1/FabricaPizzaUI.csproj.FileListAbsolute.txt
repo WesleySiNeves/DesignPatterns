@@ -13,7 +13,6 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\obj\Debug\netcoreapp3.1\FabricaPizzaUI.Form1.resources
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\obj\Debug\netcoreapp3.1\FabricaPizzaUI.csproj.GenerateResource.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\obj\Debug\netcoreapp3.1\FabricaPizzaUI.csproj.AssemblyReference.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\obj\Debug\netcoreapp3.1\FabricaPizzaUI.csproj.CopyComplete
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\FabricaPizzaUI\obj\Debug\netcoreapp3.1\FabricaPizzaUI.GeneratedMSBuildEditorConfig.editorconfig
