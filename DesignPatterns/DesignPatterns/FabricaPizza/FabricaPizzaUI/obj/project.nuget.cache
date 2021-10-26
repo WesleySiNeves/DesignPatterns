@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WZyYhThjm9XFByvyNZ80X7z/oWLlNVbibgXLNtpWYPGB6KaLB1z6TdJbn0IxKA+dQJ6SY+9ZwRF4UzZpLYUCRw==",
+  "dgSpecHash": "Q2Ua8kANsOqum7bBh/t//PIh2KmqAFYc1JzqYu/MdlSABpGS8QGWGTVUu4aEb5uygIt93hO4aKxi71rYPPHdGg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\FabricaPizza\\FabricaPizzaUI\\FabricaPizzaUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

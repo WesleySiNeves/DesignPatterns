@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v3Yv6zaP2qVFdJFBEJmYKTNI/o1ZIhUsvuX6BsRryWLFHc2f4rB3LNTS+l0L4DUpEwPyAdUIaeWW21dsVqProA==",
+  "dgSpecHash": "9hyxrESyqXDfozanXZ/3u6Lif+vJNG/3mh39DKoD0t+dl1zVLClVeP1vd7ThQ5sD8RWdpm57g2RGXfsYwqSpvw==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LocadoraCarro\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

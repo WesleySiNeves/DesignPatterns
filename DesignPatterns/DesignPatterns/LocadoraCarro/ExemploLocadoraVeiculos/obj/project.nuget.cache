@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/nPxNEB2+OztNvMtmxPVuJpRMKmEtwasqtoZkjZzZ1MFBXu39kkcjpaG7Vbv6fOG+JESipvelAi+UaHy2ps+/g==",
+  "dgSpecHash": "nt/wpQYdenbJplc6NCzTLdrFdAYkRd1nf2B52vgpj1JlvsLEiZGxNJ2oNXJfZ3tAE4lCpSR2LGYuoeHIW050Fg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LocadoraCarro\\ExemploLocadoraVeiculos\\PadraoFactoryMethod.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

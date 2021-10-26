@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S49oq7YBWztOdOIQi2FK3DVRhkQiJQnzFrmLtyrhZKY7LyfSrisrjk60jgXcz9gpw/A+f8xyldg7yMHg02sg2w==",
+  "dgSpecHash": "p/YiXr8bHk7NZoj14GC8zdGK/SwgLiku0hBWuW6X5LVHvA6uclEntc8UGP8tb98M5lmWjhcSDReb+3oORpibXg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns\\CartaoCredito.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

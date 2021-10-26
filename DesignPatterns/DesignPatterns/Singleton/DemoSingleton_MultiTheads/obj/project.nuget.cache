@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nf5wi0BexzcFSjDLTNB0HdL+EVHnh0zzdan8OijTBPGbxpPLkBIg9QlOugVpfkf6sl6t2hf7nLmy7sxmQHpIYw==",
+  "dgSpecHash": "1AJGy4KwBMtewfbjG6p8YhkWMNeXaKFu13+NdXToHPzWe2Lhkny5nJYf2vNpFK8Rn/KNjnwiJ/soyviiQFeS0w==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton_MultiTheads\\DemoSingleton_MultiTheads.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

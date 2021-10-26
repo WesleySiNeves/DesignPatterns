@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cvwI5eWz4Tj/cYbj4Z57a60TnXSvNW9YnLeIpaJpek4ZJKDgAtppViRD5nqDa0JSXp4MX3nCKiQEWpKNmyUEiw==",
+  "dgSpecHash": "oEmU4Ld0yjcmgWlUeZrLnmYKWoXXUJHvl78bfuyrEuhDBhb7jjKsj4d2H+uinOugm7Se5TaBZugvxE44sjylbw==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\Emails\\EmailUI\\EmailUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"

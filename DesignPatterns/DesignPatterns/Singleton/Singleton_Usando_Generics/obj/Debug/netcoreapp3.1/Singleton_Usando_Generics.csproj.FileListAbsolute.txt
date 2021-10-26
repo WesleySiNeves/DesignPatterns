@@ -7,3 +7,4 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Sin
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Singleton_Usando_Generics\obj\Debug\netcoreapp3.1\Singleton_Usando_Generics.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Singleton_Usando_Generics\obj\Debug\netcoreapp3.1\Singleton_Usando_Generics.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Singleton_Usando_Generics\obj\Debug\netcoreapp3.1\Singleton_Usando_Generics.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Singleton_Usando_Generics\obj\Debug\netcoreapp3.1\Singleton_Usando_Generics.csproj.AssemblyReference.cache

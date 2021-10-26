@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gdcNI4vEAvaZsH2OGFtJs6FOt/vR+cVKGkIiZJBn3rKpkAeyhtHpLWDHYvQMxfz3E0K6HlyviWvdnlh/ucImCA==",
+  "dgSpecHash": "cxcvljIBRTz4SQsF4U98LSche19EncyPUz5QS0B9/yjh9L33H/+xkBDgJei9L10GuprO68tcNLFryLE9zDO70Q==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IPn9PhvLFAR+NJ2/yXNUv8tS1ErwJtn9YwWSOKi9et4whK6w4JomrVubz3KYP19ShsoBKfXOFMyf2jTTIAJRUg==",
+  "dgSpecHash": "FF9fUggiOr00byFh6KkiNlqc3uW3XmscIIQ6GuZmsDWS+2VS1Gp5/P+9ayU8y6QhrFQHNGDfaGKqatFNiEBhng==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rNSdCbkdh+2cQ+/rZJo+XhpVhStzkmJRXFDI3AxnqT6htpX1I3ie52gP7jKD7fJZzs+30jsHJgBFT0PkyyW9Pw==",
+  "dgSpecHash": "HBQeExMiF+Tghw2PG/DRuWfX76/hg+yVMp/Xjbg70tmFWM4KKBepv7m/fr1uzqC1ax/l2uwu7l/2y8dIXoIgzA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppSanduiches\\PadraoAbstractFactory\\PadraoAbstractFactory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+  ],
   "logs": []
 }
