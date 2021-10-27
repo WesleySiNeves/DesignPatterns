@@ -7,12 +7,12 @@ namespace Conceptual.Products
     {
         private List<object> _parts = new List<object>();
 
-        public void Add(string part)
+        public void AddMembro(string part)
         {
             this._parts.Add(part);
         }
 
-        public string ListParts()
+        public string GetParts()
         {
             string str = string.Empty;
 

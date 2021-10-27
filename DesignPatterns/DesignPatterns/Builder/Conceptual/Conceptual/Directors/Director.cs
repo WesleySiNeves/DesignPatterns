@@ -1,7 +1,4 @@
-﻿using Conceptual.Builder.Concrect;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Conceptual.Builder.Contract;
 
 namespace Conceptual.Directors
 {
@@ -16,16 +13,23 @@ namespace Conceptual.Directors
 
         // The Director can construct several product variations using the same
         // building steps.
-        public void BuildMinimalViableProduct()
+        public void BuildPersonagemSemPernas()
         {
-            this._builder.BuildPartA();
+            this._builder.BuildBracos();
+            this._builder.BuildCabeca();
         }
 
-        public void BuildFullFeaturedProduct()
+        public void BuildPersonagemSemBraços()
         {
-            this._builder.BuildPartA();
-            this._builder.BuildPartB();
-            this._builder.BuildPartC();
+            this._builder.BuildPernas();
+            this._builder.BuildCabeca();
+        }
+
+        public void BuildPersonagemCompleto()
+        {
+            this._builder.BuildBracos();
+            this._builder.BuildPernas();
+            this._builder.BuildCabeca();
         }
     }
 }

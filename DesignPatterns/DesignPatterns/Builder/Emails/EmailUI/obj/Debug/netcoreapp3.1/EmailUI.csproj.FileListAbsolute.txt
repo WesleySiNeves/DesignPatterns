@@ -21,4 +21,3 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Email
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Emails\EmailUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Emails\EmailUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Emails\EmailUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Emails\EmailUI\obj\Debug\netcoreapp3.1\EmailUI.csproj.CopyComplete

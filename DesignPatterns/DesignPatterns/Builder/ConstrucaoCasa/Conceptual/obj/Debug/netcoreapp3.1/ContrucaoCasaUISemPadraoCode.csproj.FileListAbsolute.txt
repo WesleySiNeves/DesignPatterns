@@ -1,0 +1,9 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\bin\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\bin\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\bin\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.pdb

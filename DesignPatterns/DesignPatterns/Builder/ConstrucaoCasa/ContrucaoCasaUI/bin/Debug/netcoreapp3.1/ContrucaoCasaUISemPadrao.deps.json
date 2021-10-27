@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ContrucaoCasaUISemPadrao/1.0.0": {
+        "dependencies": {
+          "ContrucaoCasaUISemPadraoCode": "1.0.0"
+        },
+        "runtime": {
+          "ContrucaoCasaUISemPadrao.dll": {}
+        }
+      },
+      "ContrucaoCasaUISemPadraoCode/1.0.0": {
+        "runtime": {
+          "ContrucaoCasaUISemPadraoCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContrucaoCasaUISemPadrao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContrucaoCasaUISemPadraoCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

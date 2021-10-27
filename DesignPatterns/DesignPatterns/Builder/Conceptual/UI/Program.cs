@@ -1,5 +1,6 @@
 ﻿using System;
 using Conceptual;
+using Conceptual.Builder.Concrect;
 using Conceptual.Builder.Contract;
 using Conceptual.Directors;
 
@@ -16,20 +17,26 @@ namespace UI
             var builder = new ConcreteBuilder();
             director.Builder = builder;
 
-            Console.WriteLine("Standard basic product:");
-            director.BuildMinimalViableProduct();
-            Console.WriteLine(builder.GetProduct().ListParts());
+            Console.WriteLine("Personagem sem Pernas:");
+            director.BuildPersonagemSemPernas();
+            Console.WriteLine(builder.GetProduct().GetParts());
 
-            Console.WriteLine("Standard full featured product:");
-            director.BuildFullFeaturedProduct();
-            Console.WriteLine(builder.GetProduct().ListParts());
+
+            Console.WriteLine("Personagem sem Braços:");
+            director.BuildPersonagemSemBraços();
+            Console.WriteLine(builder.GetProduct().GetParts());
+
+
+            Console.WriteLine("Personagem Completo:");
+            director.BuildPersonagemCompleto();
+            Console.WriteLine(builder.GetProduct().GetParts());
 
             // Remember, the Builder pattern can be used without a Director
             // class.
             Console.WriteLine("Custom product:");
-            builder.BuildPartA();
-            builder.BuildPartC();
-            Console.Write(builder.GetProduct().ListParts());
+            builder.BuildBracos();
+            builder.BuildCabeca();
+            Console.Write(builder.GetProduct().GetParts());
 
             Console.ReadLine();
         }
