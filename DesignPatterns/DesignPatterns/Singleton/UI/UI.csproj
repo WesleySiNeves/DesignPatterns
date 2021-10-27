@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DemoSingleton\DemoSingleton.csproj" />
+    <ProjectReference Include="..\Singleton_Usando_Generics\Singleton_Usando_Generics.csproj" />
   </ItemGroup>
 
 </Project>

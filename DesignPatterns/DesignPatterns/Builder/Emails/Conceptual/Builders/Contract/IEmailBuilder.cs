@@ -24,7 +24,5 @@ namespace Conceptual.Builders.Contract
         Email Build();
 
 
-
-
     }
 }

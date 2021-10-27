@@ -8,13 +8,13 @@ namespace Conceptual.Products.Contract
     public interface IEmail
     {
 
-        string Body { get; set; }
+        string Conteudo { get; set; }
 
-        string From { get; set; }
+        string De { get; set; }
 
-        string Subject { get; set; }
+        string Assunto { get; set; }
 
-        string To { get; set; }
+        string Para { get; set; }
 
 
         string Rodape { get; set; }

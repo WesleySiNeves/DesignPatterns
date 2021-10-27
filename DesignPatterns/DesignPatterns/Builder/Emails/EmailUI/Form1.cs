@@ -49,45 +49,45 @@ namespace EmailUI
 
             if (!string.IsNullOrWhiteSpace(Rodape))
             {
-                director.BuildIEmailSemImagemEComRodape(To, From, Subject, Body, Rodape);
+                director.BuildIEmailSemImagemEComRodape(Para, De, Assunto, Conteudo, Rodape);
 
             }
             else if (ImagemLogo != null)
             {
-                director.BuildIEmailComImagem(To, From, Subject, Body, ImagemLogo);
+                director.BuildIEmailComImagem(Para, De, Assunto, Conteudo, ImagemLogo);
             }
             else
             {
-                director.BuildIEmailSimples(To, From, Subject, Body);
+                director.BuildIEmailSimples(Para, De, Assunto, Conteudo);
             }
 
 
             var email = director.GetEmail().Build();
 
-            MessageBox.Show($"TO :{email.To}\n From:{email.From} \n Titulo: {email.Subject} " +
-                $"\n Assunto:{email.Body} \n  Rodape:{email.Rodape} ");
+            MessageBox.Show($"TO :{email.Para}\n From:{email.De} \n Titulo: {email.Assunto} " +
+                $"\n Assunto:{email.Conteudo} \n  Rodape:{email.Rodape} ");
 
 
 
 
         }
 
-        public string Body
+        public string Conteudo
         {
             get { return txtAssunto.Text; }
             set { txtAssunto.Text = value; }
         }
-        public string From
+        public string De
         {
             get { return txtFrom.Text; }
             set { txtFrom.Text = value; }
         }
-        public string Subject
+        public string Assunto
         {
             get { return txtTitulo.Text; }
             set { txtTitulo.Text = value; }
         }
-        public string To
+        public string Para
         {
             get { return txtTo.Text; }
             set { txtTo.Text = value; }

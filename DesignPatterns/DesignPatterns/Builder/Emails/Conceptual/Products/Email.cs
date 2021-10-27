@@ -6,13 +6,13 @@ namespace Conceptual.Products
 {
     public class Email : IEmail
     {
-        public string Body { get; set; }
+        public string Conteudo { get; set; }
 
-        public string From { get; set; }
+        public string De { get; set; }
 
-        public string Subject { get; set; }
+        public string Assunto { get; set; }
 
-        public string To { get; set; }
+        public string Para { get; set; }
 
 
         public string Rodape { get; set; }

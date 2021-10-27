@@ -17,6 +17,19 @@
         "runtime": {
           "bin/placeholder/DemoSingleton.dll": {}
         }
+      },
+      "Singleton_Usando_Generics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.DependencyValidation.Analyzers": "0.11.0"
+        },
+        "compile": {
+          "bin/placeholder/Singleton_Usando_Generics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Singleton_Usando_Generics.dll": {}
+        }
       }
     }
   },
@@ -53,12 +66,18 @@
       "type": "project",
       "path": "../DemoSingleton/DemoSingleton.csproj",
       "msbuildProject": "../DemoSingleton/DemoSingleton.csproj"
+    },
+    "Singleton_Usando_Generics/1.0.0": {
+      "type": "project",
+      "path": "../Singleton_Usando_Generics/Singleton_Usando_Generics.csproj",
+      "msbuildProject": "../Singleton_Usando_Generics/Singleton_Usando_Generics.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "DemoSingleton >= 1.0.0",
-      "Microsoft.DependencyValidation.Analyzers >= 0.11.0"
+      "Microsoft.DependencyValidation.Analyzers >= 0.11.0",
+      "Singleton_Usando_Generics >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -93,6 +112,9 @@
           "projectReferences": {
             "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj": {
               "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj"
+            },
+            "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj": {
+              "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj"
             }
           }
         }

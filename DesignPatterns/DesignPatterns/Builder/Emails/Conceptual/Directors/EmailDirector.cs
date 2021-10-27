@@ -10,6 +10,7 @@ namespace Conceptual.Directors
     {
         private IEmailBuilder _builder;
 
+        
 
         public void SetBuilder(IEmailBuilder builder)
         {

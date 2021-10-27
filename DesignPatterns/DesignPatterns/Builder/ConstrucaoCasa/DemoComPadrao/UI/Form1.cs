@@ -1,5 +1,6 @@
 ﻿
 using Conceptual.Builder.Concrect;
+using Conceptual.Builder.Contract;
 using Conceptual.Directors;
 using System;
 using System.Collections.Generic;
@@ -30,7 +31,7 @@ namespace ContrucaoCasa.Padrao.UI
         private void BtnCasaComPiscina_Click(object sender, EventArgs e)
         {
             var director = new CasaDirector();
-            var builder = new CasaBuilder();
+            ICasaBuilder builder = new CasaBuilder();
             director.Builder = builder;
 
 
@@ -42,7 +43,7 @@ namespace ContrucaoCasa.Padrao.UI
             lbPrecoCasa.Text = builder.Build().getPrecoCasa().ToString("n2");
 
 
-            MessageBox.Show(resumo, "Resumo da Casa.");
+            MessageBox.Show(resumo, "Resumo da Casa.",MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void BtnCasaComObrasDeArtes_Click(object sender, EventArgs e)
@@ -107,6 +108,7 @@ namespace ContrucaoCasa.Padrao.UI
             director.Builder = builder;
 
             builder.AddBanheiros(QuantidadeBanheiros).AddQuartos(QuantidadeQuartos);
+
 
 
 

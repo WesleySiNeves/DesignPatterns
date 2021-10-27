@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Conceptual.Products.Concrects.Casa">
+    <Position X="0.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAQAQJAAAAAAQAAACAAICACAABAAGAQgAAAAA=</HashCode>
+      <FileName>Products\Concrects\Casa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Conceptual.Builder.Concrect.CasaBuilder">
+    <Position X="7.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgACBAAAIAAEAABAAABAgAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Builder\Concrect\CasaBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Conceptual.Directors.CasaDirector">
+    <Position X="3.75" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAQAAAEAQAAgAAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>Directors\CasaDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Conceptual.Products.Contracts.ICasa">
+    <Position X="0.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAJAAAAAAAAAAAAAAAAAAABAACAQgAAAAA=</HashCode>
+      <FileName>Products\Contracts\ICasa.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Conceptual.Builder.Contract.ICasaBuilder">
+    <Position X="7.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAIAAEAABAAABAgAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Builder\Contract\ICasaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

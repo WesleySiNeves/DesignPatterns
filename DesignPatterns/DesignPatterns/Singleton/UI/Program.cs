@@ -1,12 +1,16 @@
 ﻿using DemoSingleton;
+using Singleton_Usando_Generics;
 using System;
 using System.Threading.Tasks;
-
+using UI.Logics;
 
 namespace UI
 {
     class Program
     {
+        private static ClasseLogica ClasseLogica1 => SingletonBase<ClasseLogica>.GetInstancia();
+
+        private static ClasseLogica ClasseLogica2 => SingletonBase<ClasseLogica>.GetInstancia();
 
         /*Implementação mais básica do Singleton */
         static void Main(string[] args)
@@ -40,8 +44,29 @@ namespace UI
             }
 
 
-            Console.ReadKey();
+
+            Singleton_Usando_Generics();
+
+
         }
 
+        private static void Singleton_Usando_Generics()
+        {
+            if (ClasseLogica1.GetHashCode() == ClasseLogica2.GetHashCode())
+            {
+                Console.WriteLine("Existe somente uma instancia");
+
+            }
+            else
+            {
+                Console.WriteLine("Instancias diferentes");
+            }
+        }
     }
 }
+
+
+
+
+
+

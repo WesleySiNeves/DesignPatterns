@@ -17,12 +17,12 @@ namespace Conceptual.Builders.Concrect
 
         public EmailBuilder Body(string body)
         {
-            _email.Body = body;
+            _email.Conteudo = body;
             return this;
         }
         public EmailBuilder From(string from)
         {
-            _email.From = from;
+            _email.De = from;
             return this;
         }
         public Email Build()
@@ -31,12 +31,12 @@ namespace Conceptual.Builders.Concrect
         }
         public EmailBuilder Subject(string subject)
         {
-            _email.Subject = subject;
+            _email.Assunto = subject;
             return this;
         }
         public EmailBuilder To(string to)
         {
-            _email.To = to;
+            _email.Para = to;
             return this;
         }
 
