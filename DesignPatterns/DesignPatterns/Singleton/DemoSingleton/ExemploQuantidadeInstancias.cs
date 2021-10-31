@@ -11,6 +11,8 @@ namespace DemoSingleton
         private static ExemploQuantidadeInstancias _instance;
         private static int numeroDeInstancias = 0;
 
+        // não é
+
         public static ExemploQuantidadeInstancias Instance
         {
 

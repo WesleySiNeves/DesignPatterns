@@ -38,20 +38,23 @@ namespace EmailUI
             this.btnEnviar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.txtRodape = new System.Windows.Forms.TextBox();
-            this.pictureBoxLogo = new System.Windows.Forms.PictureBox();
             this.btnCarregarLogo = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.Logo = new System.Windows.Forms.TabPage();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.btnCarregarAnexo = new System.Windows.Forms.Button();
             this.pictureBoxAnexo = new System.Windows.Forms.PictureBox();
             this.txtTitulo = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).BeginInit();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.pictureBoxLogo = new System.Windows.Forms.PictureBox();
             this.tabControl1.SuspendLayout();
             this.Logo.SuspendLayout();
+            this.flowLayoutPanel1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnexo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -105,7 +108,7 @@ namespace EmailUI
             // 
             // btnEnviar
             // 
-            this.btnEnviar.Location = new System.Drawing.Point(556, 406);
+            this.btnEnviar.Location = new System.Drawing.Point(616, 602);
             this.btnEnviar.Name = "btnEnviar";
             this.btnEnviar.Size = new System.Drawing.Size(75, 23);
             this.btnEnviar.TabIndex = 6;
@@ -128,17 +131,9 @@ namespace EmailUI
             this.txtRodape.Size = new System.Drawing.Size(536, 23);
             this.txtRodape.TabIndex = 8;
             // 
-            // pictureBoxLogo
-            // 
-            this.pictureBoxLogo.Location = new System.Drawing.Point(232, 9);
-            this.pictureBoxLogo.Name = "pictureBoxLogo";
-            this.pictureBoxLogo.Size = new System.Drawing.Size(130, 86);
-            this.pictureBoxLogo.TabIndex = 9;
-            this.pictureBoxLogo.TabStop = false;
-            // 
             // btnCarregarLogo
             // 
-            this.btnCarregarLogo.Location = new System.Drawing.Point(7, 60);
+            this.btnCarregarLogo.Location = new System.Drawing.Point(6, 19);
             this.btnCarregarLogo.Name = "btnCarregarLogo";
             this.btnCarregarLogo.Size = new System.Drawing.Size(124, 23);
             this.btnCarregarLogo.TabIndex = 10;
@@ -152,20 +147,28 @@ namespace EmailUI
             this.tabControl1.Location = new System.Drawing.Point(12, 303);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(376, 126);
+            this.tabControl1.Size = new System.Drawing.Size(538, 326);
             this.tabControl1.TabIndex = 11;
             // 
             // Logo
             // 
+            this.Logo.Controls.Add(this.flowLayoutPanel1);
             this.Logo.Controls.Add(this.btnCarregarLogo);
-            this.Logo.Controls.Add(this.pictureBoxLogo);
             this.Logo.Location = new System.Drawing.Point(4, 24);
             this.Logo.Name = "Logo";
             this.Logo.Padding = new System.Windows.Forms.Padding(3);
-            this.Logo.Size = new System.Drawing.Size(368, 98);
+            this.Logo.Size = new System.Drawing.Size(530, 298);
             this.Logo.TabIndex = 0;
             this.Logo.Text = "Logo";
             this.Logo.UseVisualStyleBackColor = true;
+            // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.Controls.Add(this.pictureBoxLogo);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(12, 48);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(502, 235);
+            this.flowLayoutPanel1.TabIndex = 14;
             // 
             // tabPage2
             // 
@@ -174,7 +177,7 @@ namespace EmailUI
             this.tabPage2.Location = new System.Drawing.Point(4, 24);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(368, 98);
+            this.tabPage2.Size = new System.Drawing.Size(530, 298);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Anexos";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -212,11 +215,23 @@ namespace EmailUI
             this.label5.TabIndex = 12;
             this.label5.Text = "Titulo:";
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // pictureBoxLogo
+            // 
+            this.pictureBoxLogo.Location = new System.Drawing.Point(3, 3);
+            this.pictureBoxLogo.Name = "pictureBoxLogo";
+            this.pictureBoxLogo.Size = new System.Drawing.Size(473, 205);
+            this.pictureBoxLogo.TabIndex = 0;
+            this.pictureBoxLogo.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(643, 441);
+            this.ClientSize = new System.Drawing.Size(934, 659);
             this.Controls.Add(this.txtTitulo);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.tabControl1);
@@ -231,11 +246,12 @@ namespace EmailUI
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.Logo.ResumeLayout(false);
+            this.flowLayoutPanel1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnexo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -252,7 +268,6 @@ namespace EmailUI
         private System.Windows.Forms.Button btnEnviar;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtRodape;
-        private System.Windows.Forms.PictureBox pictureBoxLogo;
         private System.Windows.Forms.Button btnCarregarLogo;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage Logo;
@@ -261,6 +276,9 @@ namespace EmailUI
         private System.Windows.Forms.PictureBox pictureBoxAnexo;
         private System.Windows.Forms.TextBox txtTitulo;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.PictureBox pictureBoxLogo;
     }
 }
 

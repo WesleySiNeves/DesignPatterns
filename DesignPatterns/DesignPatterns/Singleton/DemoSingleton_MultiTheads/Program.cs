@@ -7,13 +7,13 @@ namespace DemoSingleton_MultiTheads
     {
         static void Main(string[] args)
         {
-            Parallel.Invoke(
-               () => AcessoThread1(),
-               () => AcessoThread2(),
-                () => AcessoThread3()
-               );
+            //Parallel.Invoke(
+            //   () => AcessoThread1(),
+            //   () => AcessoThread2(),
+            //    () => AcessoThread3()
+            //   );
 
-            Console.ReadLine();
+            //Console.ReadLine();
 
 
             Parallel.Invoke(

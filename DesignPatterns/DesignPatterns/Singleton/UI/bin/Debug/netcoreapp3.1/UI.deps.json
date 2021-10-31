@@ -9,7 +9,8 @@
       "UI/1.0.0": {
         "dependencies": {
           "DemoSingleton": "1.0.0",
-          "Microsoft.DependencyValidation.Analyzers": "0.11.0"
+          "Microsoft.DependencyValidation.Analyzers": "0.11.0",
+          "Singleton_Usando_Generics": "1.0.0"
         },
         "runtime": {
           "UI.dll": {}
@@ -22,6 +23,14 @@
         },
         "runtime": {
           "DemoSingleton.dll": {}
+        }
+      },
+      "Singleton_Usando_Generics/1.0.0": {
+        "dependencies": {
+          "Microsoft.DependencyValidation.Analyzers": "0.11.0"
+        },
+        "runtime": {
+          "Singleton_Usando_Generics.dll": {}
         }
       }
     }
@@ -40,6 +49,11 @@
       "hashPath": "microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
     },
     "DemoSingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Singleton_Usando_Generics/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

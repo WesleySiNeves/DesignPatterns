@@ -49,7 +49,7 @@ namespace ContrucaoCasa.Padrao.UI
         private void BtnCasaComObrasDeArtes_Click(object sender, EventArgs e)
         {
             var director = new CasaDirector();
-            var builder = new CasaBuilder();
+            ICasaBuilder builder = new CasaBuilder();
             director.Builder = builder;
 
             Console.WriteLine("Standard basic product:");
@@ -67,7 +67,7 @@ namespace ContrucaoCasa.Padrao.UI
         private void BtnCasaComJardins_Click(object sender, EventArgs e)
         {
             var director = new CasaDirector();
-            var builder = new CasaBuilder();
+            ICasaBuilder builder = new CasaBuilder();
             director.Builder = builder;
 
             Console.WriteLine("Standard basic product:");
@@ -85,7 +85,7 @@ namespace ContrucaoCasa.Padrao.UI
         private void BtnContruirCasaPadrao_Click(object sender, EventArgs e)
         {
             var director = new CasaDirector();
-            var builder = new CasaBuilder();
+            ICasaBuilder builder = new CasaBuilder();
             director.Builder = builder;
 
 
@@ -104,11 +104,11 @@ namespace ContrucaoCasa.Padrao.UI
         private void BtnCustomizar_Click(object sender, EventArgs e)
         {
             var director = new CasaDirector();
-            var builder = new CasaBuilder();
+            ICasaBuilder builder = new CasaBuilder();
             director.Builder = builder;
 
             builder.AddBanheiros(QuantidadeBanheiros).AddQuartos(QuantidadeQuartos);
-
+             
 
 
 

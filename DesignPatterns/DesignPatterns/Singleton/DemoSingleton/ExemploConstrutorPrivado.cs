@@ -6,21 +6,23 @@ namespace DemoSingleton
     /// </summary>
     public class ExemploConstrutorPrivado
     {
-        //private CreditosBancariosBusiness _business;
+        private CreditosBancariosBusiness _business;
 
-        //public CreditosBancariosBusiness BusinessCreditosBancarios
-        //{
+        public CreditosBancariosBusiness BusinessCreditosBancarios
+        {
 
-        //    get
-        //    {
-        //        if (_business == null)
-        //        {
-        //            _business = new CreditosBancariosBusiness();
-        //        }
+            get
+            {
+                if (_business == null)
+                {
+                    _business =  CreditosBancariosBusiness.Instance;
 
-        //        return _business;
+                    
+                }
 
-        //    }
-        //}
+                return _business;
+
+            }
+        }
     }
 }
