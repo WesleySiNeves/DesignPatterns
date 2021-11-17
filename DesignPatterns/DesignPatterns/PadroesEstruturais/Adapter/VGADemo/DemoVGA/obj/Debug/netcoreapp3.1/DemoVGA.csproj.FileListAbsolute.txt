@@ -1,0 +1,14 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\bin\Debug\netcoreapp3.1\DemoVGA.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\VGADemo\DemoVGA\obj\Debug\netcoreapp3.1\DemoVGA.genruntimeconfig.cache

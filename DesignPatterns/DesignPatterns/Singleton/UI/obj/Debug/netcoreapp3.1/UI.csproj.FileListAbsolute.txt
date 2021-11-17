@@ -1,8 +1,3 @@
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\UI.exe
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\UI.deps.json
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
@@ -10,10 +5,15 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\UI.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\UI.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\DemoSingleton.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\Singleton_Usando_Generics.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\DemoSingleton.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\Singleton_Usando_Generics.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\Singleton_Usando_Generics.dll
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\bin\Debug\netcoreapp3.1\Singleton_Usando_Generics.pdb
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete

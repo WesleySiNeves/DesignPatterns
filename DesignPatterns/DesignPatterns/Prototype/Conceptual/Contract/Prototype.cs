@@ -7,17 +7,15 @@ namespace Conceptual.Contract
     public abstract class Prototype
     {
 
-        Guid id;
+        
         // Constructor
         public Prototype(Guid id)
         {
-            this.id = id;
+            this.Id = id;
         }
         // Gets id
-        public Guid Id
-        {
-            get { return id; }
-        }
+        public Guid Id { get; set; } 
+        
         public abstract Prototype ShallowCopy();
 
         public abstract Prototype DeepCopy();

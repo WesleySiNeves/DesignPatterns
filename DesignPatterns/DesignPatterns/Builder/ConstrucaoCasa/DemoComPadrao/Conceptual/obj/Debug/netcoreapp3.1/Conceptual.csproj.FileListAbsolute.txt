@@ -7,4 +7,3 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Const
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.pdb
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.AssemblyReference.cache

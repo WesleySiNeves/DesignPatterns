@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TM7Iu7+V/eZ0DGu5zhc72sx7iUyNSwNUSp6Asyg2JgtfBK8coP0WXIUtkv+Ec6e/Fdy1owVetW1rbY76OGCShA==",
+  "success": true,
+  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\Conceptual\\Conceptual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

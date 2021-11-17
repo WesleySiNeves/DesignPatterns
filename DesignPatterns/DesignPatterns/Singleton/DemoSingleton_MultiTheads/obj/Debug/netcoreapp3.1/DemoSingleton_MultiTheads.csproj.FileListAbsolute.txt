@@ -11,4 +11,3 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Dem
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.genruntimeconfig.cache
-D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.csproj.AssemblyReference.cache

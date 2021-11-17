@@ -1,0 +1,16 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Padrao.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.genruntimeconfig.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\bin\Debug\netcoreapp3.1\System.Json.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\LumiaMobile\Padrao\obj\Debug\netcoreapp3.1\Padrao.csproj.AssemblyReference.cache

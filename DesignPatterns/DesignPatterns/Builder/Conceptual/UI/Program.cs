@@ -8,7 +8,7 @@ namespace UI
 {
     class Program
     {
-        static void Main(string[] args)
+        protected static void Main(string[] args)
         {
                 // O código do cliente cria um objeto construtor, passa-o para o
              // diretor e, em seguida, inicia o processo de construção. O fim

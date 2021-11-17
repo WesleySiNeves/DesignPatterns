@@ -1,6 +1,7 @@
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.deps.json
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.AssemblyReference.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.GeneratedMSBuildEditorConfig.editorconfig
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.AssemblyInfoInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Conceptual\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.AssemblyInfo.cs

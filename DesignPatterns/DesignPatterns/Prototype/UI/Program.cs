@@ -7,16 +7,37 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            ConcretePrototype1 p1 = new ConcretePrototype1(Guid.NewGuid());
 
-            ConcretePrototype1 c1 = (ConcretePrototype1)p1.ShallowCopy();
+            ///Isso devemos evitar;
+            ConcretePrototype1 objeto1 = new ConcretePrototype1(Guid.NewGuid());
 
-            Console.WriteLine("Cloned: {0}", c1.Id);
-            ConcretePrototype2 p2 = new ConcretePrototype2(Guid.NewGuid());
+            var clone1 = objeto1;
+            clone1.Id = Guid.NewGuid();
 
-            ConcretePrototype2 c2 = (ConcretePrototype2)p2.ShallowCopy();
 
-            Console.WriteLine("Cloned: {0}", c2.Id);
+            Console.WriteLine("Pai: {0}", objeto1.Id);
+            Console.WriteLine("Clone: {0}", clone1.Id);
+
+            Console.ReadKey();
+
+
+            ConcretePrototype1 objeto2 = new ConcretePrototype1(Guid.NewGuid());
+            ConcretePrototype1 clone2 = (ConcretePrototype1)objeto2.ShallowCopy();
+
+            clone2.Id = Guid.NewGuid();
+
+            Console.WriteLine("Pai: {0}", objeto2.Id);
+            Console.WriteLine("Cloned: {0}", clone2.Id);
+
+            ConcretePrototype2 objeto3 = new ConcretePrototype2(Guid.NewGuid());
+            ConcretePrototype2 clone3 = (ConcretePrototype2)objeto3.ShallowCopy();
+
+            clone3.Id = Guid.NewGuid();
+
+
+            Console.WriteLine("Pai: {0}", objeto3.Id);
+            Console.WriteLine("Cloned: {0}", clone3.Id);
+
             // Wait for user
             Console.ReadKey();
         }

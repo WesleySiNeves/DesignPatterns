@@ -21,7 +21,7 @@ namespace Conceptual.Concrect
 
         public override Prototype DeepCopy()
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException("Metodo não implementado");
         }
     }
 }

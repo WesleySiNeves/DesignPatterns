@@ -1,0 +1,14 @@
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.AssemblyInfoInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.AssemblyInfo.cs
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.csproj.CoreCompileInputs.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.exe
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.deps.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.runtimeconfig.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.runtimeconfig.dev.json
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\bin\Debug\netcoreapp3.1\FabricaCarrosUI.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.dll
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.pdb
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.genruntimeconfig.cache
+D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\FabricaCarrosUI\obj\Debug\netcoreapp3.1\FabricaCarrosUI.csproj.AssemblyReference.cache
