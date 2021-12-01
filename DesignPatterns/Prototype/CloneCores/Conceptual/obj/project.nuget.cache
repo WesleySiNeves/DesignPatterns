@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bE2BSJ9bJL2KoMrlyTGktau29K2EXPu+D52jjWATCYix3uNUSkSv8pCQoroXwqzGkN5HUzonHsMjmQ47hC1jSw==",
+  "dgSpecHash": "No6p4B2ZaLLraslKLPOB3wc9b8thkbBl2OFgkxIuIfeSqFy12jd2Ycc7W/5XNa8c5UymPG3is4S+Orx4DEnptg==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CloneCores\\Conceptual\\Conceptual.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CloneCores\\Conceptual\\Conceptual.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HaN4deIr4KJQoW1ybQZRToq9kqf7cHZwWz8nJjsZglYEax4NH736LJThFeO3C3ObT4KSpSMRZ1SPqo8s84Nw3g==",
+  "dgSpecHash": "ge0JQKHz2OTcF4mNRlVA+1xKMEGl7CoQZwYFmvF17tJVNasv+8P4aGhW/py2ajGwCy7RYG+kV6FBDxT/8pe4Tg==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQoL+4omcmVRMDa0AWyoNZNDDm8K6VwqfA2ywRTw44pcZwzHhI5EqzHtReMZ7CUJTuI1LNbIUaA0aDXr+p5oFA==",
+  "dgSpecHash": "6VztP4uz/sbpj+baN7a3lOP1sSLjuhfnRo8XPkCUiIF0bhZEvpYcW7YWK0s+hta+S6WevZ90rZN/bQKHKAtO5Q==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\LumiaMobile\\Padrao\\Padrao.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\LumiaMobile\\Padrao\\Padrao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"

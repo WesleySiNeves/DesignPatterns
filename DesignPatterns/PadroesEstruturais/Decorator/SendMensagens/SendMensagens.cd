@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SendMensagens.Concrect.Notifier">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrect\Notifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SendMensagens.Decorator.SendNotifierBaseDecorator">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\SendNotifierBaseDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SendMensagens.ConcrectDecorator.FaceBookDecorator" Collapsed="true">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="SendMensagens.Decorator.SendNotifierBaseDecorator" ManuallyRouted="true">
+      <Path>
+        <Point X="7.25" Y="4.997" />
+        <Point X="7.25" Y="5.708" />
+        <Point X="2.75" Y="5.708" />
+        <Point X="2.75" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcrectDecorator\FaceBookDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SendMensagens.ConcrectDecorator.SlackDecorator" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcrectDecorator\SlackDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SendMensagens.ConcrectDecorator.SMSDecorator" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <InheritanceLine Type="SendMensagens.Decorator.SendNotifierBaseDecorator" ManuallyRouted="true">
+      <Path>
+        <Point X="7.25" Y="4.997" />
+        <Point X="7.25" Y="4.615" />
+        <Point X="12.25" Y="4.615" />
+        <Point X="12.25" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcrectDecorator\SMSDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SendMensagens.Interface.INotifier">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\INotifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

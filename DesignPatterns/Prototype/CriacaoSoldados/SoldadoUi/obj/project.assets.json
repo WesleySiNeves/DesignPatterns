@@ -264,11 +264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
+      "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
       "projectName": "SoldadoUi",
-      "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
+      "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\SoldadoUi.csproj",
       "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-      "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\obj\\",
+      "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\SoldadoUi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,15 +281,14 @@
       "sources": {
         "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\Conceptual\\Conceptual.csproj": {
-              "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\Conceptual\\Conceptual.csproj"
+            "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\Conceptual\\Conceptual.csproj": {
+              "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CriacaoSoldados\\Conceptual\\Conceptual.csproj"
             }
           }
         }
@@ -321,7 +320,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

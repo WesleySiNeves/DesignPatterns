@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hm4mIRntXxVO3Z9hhM7yw0zp1I9mgLVY+Vl2L7IWiGWAji7k+PFJhLq1pDqhzVMSWIjhxIm1EVNGsLIbS9TevA==",
+  "dgSpecHash": "o3oDmWPd/XmwjGSbTw7Z13u9hZzSWn8krY3iie84rxUkRiaQ5S+9WhV8CI/hv0dtOnBU5cRcLUsfbqASR35TkQ==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Prototype\\FabricaCarros\\UI\\UI.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\FabricaCarros\\UI\\UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

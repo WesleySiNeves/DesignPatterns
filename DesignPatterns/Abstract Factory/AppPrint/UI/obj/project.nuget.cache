@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrkumuF1cPqvkioER1L6n/Akl5RFiw29QlcRUyQnCp5jpU6Q/euoAQcQS/mZagpNxJa/XOezdVZ8g16IxOoGxw==",
+  "dgSpecHash": "W1GjC+TMcJR7U2rYh1mdKWhMqD1XGfWwNc9Fx0YEd8av0HsBccBPx1ses1SewwXXqFjl/FLO0832xy4uVXTNkg==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppPrint\\UI\\UI.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppPrint\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

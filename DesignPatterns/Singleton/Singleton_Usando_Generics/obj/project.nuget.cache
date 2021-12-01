@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CL16aBoPKJOPAH277e37bxXrb5ukcad9V4DgofrzAodZO8OqWwXG91OmBhrVGqJSa+GPp05D0oly/crGR8zp4g==",
+  "dgSpecHash": "bGZBXGofDEAUD24H9Nd/BJUTDIm9A/VgCKebWky8lMqHyYwIwPI3m/13EPQGdzvqY1NZbGGlDUejoAn1rRhIMw==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

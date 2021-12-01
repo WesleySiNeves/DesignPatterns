@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj": {}
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj": {}
   },
   "projects": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj",
         "projectName": "DemoSingleton",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,8 +24,7 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -63,18 +62,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
         "projectName": "Singleton_Usando_Generics",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +86,7 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -126,18 +124,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,18 +148,17 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj": {
-                "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj"
+              "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj": {
+                "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj"
               },
-              "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj": {
-                "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj"
+              "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj": {
+                "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj"
               }
             }
           }
@@ -196,7 +193,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj": {}
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj": {}
   },
   "projects": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
         "projectName": "PadraoFactoryMethod",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,8 +24,7 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

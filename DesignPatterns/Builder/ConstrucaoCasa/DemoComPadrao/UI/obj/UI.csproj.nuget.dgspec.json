@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj": {}
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj": {}
   },
   "projects": {
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj",
         "projectName": "Conceptual",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -24,8 +24,7 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -57,18 +56,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj": {
+    "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
+        "projectUniqueName": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
+        "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\wesley.neves\\.nuget\\packages\\",
-        "outputPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\obj\\",
+        "outputPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.neves\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,15 +80,14 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/implantainformatica/_packaging/implantanet-packages/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj": {
-                "projectPath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj"
+              "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj": {
+                "projectPath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\Conceptual\\Conceptual.csproj"
               }
             }
           }
@@ -121,7 +119,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

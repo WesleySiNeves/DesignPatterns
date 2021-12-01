@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gkJ9qaYnj0ATMhRaKM/kQv4sJlLe6SvNhPzueoO0YwnE32RxAqN7WwBBzZzz2DC7NPvOXGXOm2fX5Mm5PfMudw==",
+  "dgSpecHash": "5VUGqAg37RiGRqS7+J45z1U63HFjkazJCNcT953SXul/3qJsmM2j6lj59dWkchixOyQ4jAhZIZ3Bnd5kjlTxVw==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\LogistAPP\\UI.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

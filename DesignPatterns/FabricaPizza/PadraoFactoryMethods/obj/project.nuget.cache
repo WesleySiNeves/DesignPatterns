@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TRzxBxZeV5hmf1vqz0u+QEkEqncQjTJb1aToz58+5XeT5ST13AwhRjtx04xFrgR5RW0uXgZj/oxFhlkv9Hghiw==",
+  "dgSpecHash": "GOz0odi/R9i+Qy03jHQbFJRFJaeSEzQVjlTw0k5YKy8PRf3FnpxtRKcBKsD/KYSobvqNRZ+7WPMoLhRtPCooug==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\FabricaPizza\\PadraoFactoryMethods\\PadraoFactoryMethod.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\FabricaPizza\\PadraoFactoryMethods\\PadraoFactoryMethod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

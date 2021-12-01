@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GbQkUgHmL9rKmletrjSF0Wi0kIEuTIPodpxjp0KmnXMOE2QL23SVPBRqakN4orR++jjDF5SF2w08nDb2T2NYw==",
+  "dgSpecHash": "54+QcSl4YwvdrKV7kz8OnAZytv9DNUZtDmXd2mGWp9lki2HMk2VmeECRGOoCJki379F7Bvz0NJr3ZXNALOfcFw==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppSanduiches\\LanchoneteUI\\LanchoneteUI.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppSanduiches\\LanchoneteUI\\LanchoneteUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

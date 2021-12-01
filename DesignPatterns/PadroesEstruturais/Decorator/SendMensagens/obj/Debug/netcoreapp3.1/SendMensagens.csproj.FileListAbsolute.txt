@@ -1,0 +1,13 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\bin\Debug\netcoreapp3.1\SendMensagens.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.genruntimeconfig.cache

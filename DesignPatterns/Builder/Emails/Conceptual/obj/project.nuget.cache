@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0RQQaZcBoPSgZyJImqGult34uz6xVxgO/4m1yn69Tvme3ZTdUIll2s3lAtSQcHo1yF0cJzbBC0JImr8iQY5BPQ==",
+  "dgSpecHash": "pYJtQ1QYaFZfLZieSQCkqiStHPT1dXOu7PSoPXzdDbzF3Se3R0f/T5Cw7Xv4X6FSEmvtXzHPVcSy6PYjaPn7IA==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\Emails\\Conceptual\\Conceptual.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Emails\\Conceptual\\Conceptual.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

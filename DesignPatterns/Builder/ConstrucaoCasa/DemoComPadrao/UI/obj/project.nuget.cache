@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nx4HKMTDrRMR3IPNIU3nbGfWY+zakFl81t2GE8JeML6ZJpTpvE+yD0E7P6lse/jP9haFfZ5P3vYO0Zmqrj4WhA==",
+  "dgSpecHash": "HWMbpQFd/8UYN4b8YODYl5lZgYTEuC1DfjTv5dddzsXmxEUn22NIhZo/afeUv5GvY8KWJ8l0GxRX251Y3ZVyig==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

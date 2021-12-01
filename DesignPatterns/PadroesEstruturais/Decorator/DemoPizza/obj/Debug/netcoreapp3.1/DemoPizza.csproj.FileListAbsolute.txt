@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\bin\Debug\netcoreapp3.1\DemoPizza.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\DemoPizza\obj\Debug\netcoreapp3.1\DemoPizza.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbhk9GfoM5teJChgjXloU+rBKiAilrRCuBhSzrvnjdbuxukgXPjq/hII3JMACcm6AtqoaHrFozddYCB96vjyOg==",
+  "dgSpecHash": "auM+A63qFkSOB0RLUPHoYC7e5UryL3wxHebbmPIGXwYXzbBItxVbETtiAyo8T7fSnqjl7XSN9tWek4qH1kFMCg==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\VGADemo\\DemoVGA\\DemoVGA.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\VGADemo\\DemoVGA\\DemoVGA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTvBfgabz4PCAI5Zarq8vH2sRL3L9fTKaj9a1ztv2heFy3jBqo6mfuiE9lt9nzoZNXVd0m+muu7Yi1JppYotAA==",
+  "dgSpecHash": "yTxHE2vvOq8amQTb0VkGuxhQiupkfP2Sebzfa/ll2LE1h7LTXVjDRgw1PYfEAo4Vy1A8OKrpz8i0OInJ6CQfmg==",
   "success": true,
-  "projectFilePath": "D:\\Wesley\\VersionCode\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DemoSimple\\DemoSimple.csproj",
+  "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\DemoSimple\\DemoSimple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],

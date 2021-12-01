@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Conceptual.Interface.Component">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Interface\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.ConcreteComponent">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ConcreteComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.DecoratorConcrect.DecoratorBase.Decorator">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAEAAAAA=</HashCode>
+      <FileName>DecoratorConcrect\DecoratorBase\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.Concrect.ConcreteDecoratorA">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>DecoratorConcrect\ConcreteDecoratorA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.Concrect.ConcreteDecoratorB">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>DecoratorConcrect\ConcreteDecoratorB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
