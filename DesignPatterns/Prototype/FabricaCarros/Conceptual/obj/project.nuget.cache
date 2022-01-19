@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "s/A6dlnxc7UshxUAOXd7gQbA+MlZMPHdHZxvPcetILTlCxpssIaWLrDByg9G8Y9rFHpEe5XwHNqnnlH/2uBlEA==",
+  "dgSpecHash": "JnWRoPuBC4tY1Qesnnu3uZQLFpXmxQAA8Ua/GOzi4Cx6nxTBuAKk4dwJqDautFuw8Gw77ejbZvjHM23AapEtJQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\FabricaCarros\\Conceptual\\Conceptual.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

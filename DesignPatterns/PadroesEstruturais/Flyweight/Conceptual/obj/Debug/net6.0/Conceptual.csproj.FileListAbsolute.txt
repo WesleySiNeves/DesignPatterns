@@ -1,0 +1,17 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Conceptual.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Conceptual.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Conceptual.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\ref\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Conceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.csproj.CopyComplete
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\ref\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual\obj\Debug\net6.0\Conceptual.genruntimeconfig.cache

@@ -15,3 +15,8 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\LogistAPP\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache

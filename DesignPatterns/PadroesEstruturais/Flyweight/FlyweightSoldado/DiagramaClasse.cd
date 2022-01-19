@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlyweightSoldado.Soldado">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Soldado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldado.SoldadoArmado">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoArmado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldado.SoldadoEspada">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoEspada.cs</FileName>
+      <NewMemberFileName>SoldadoArmado.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldado.SoldadoFactory">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAEAABAAAA=</HashCode>
+      <FileName>SoldadoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldado.SoldadoLanca">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoLanca.cs</FileName>
+      <NewMemberFileName>SoldadoArmado.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldado.SoldadoPowerRanger">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoPowerRanger.cs</FileName>
+      <NewMemberFileName>SoldadoArmado.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FlyweightSoldado.TipoSoldado">
+    <Position X="13.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAg=</HashCode>
+      <FileName>Soldado.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

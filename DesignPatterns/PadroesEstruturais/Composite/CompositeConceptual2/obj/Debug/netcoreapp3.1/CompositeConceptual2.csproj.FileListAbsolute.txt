@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\bin\Debug\netcoreapp3.1\CompositeConceptual2.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\CompositeConceptual2\obj\Debug\netcoreapp3.1\CompositeConceptual2.csproj.AssemblyReference.cache

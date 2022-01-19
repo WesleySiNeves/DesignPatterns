@@ -11,3 +11,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendM
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Decorator\SendMensagens\obj\Debug\netcoreapp3.1\SendMensagens.csproj.AssemblyReference.cache

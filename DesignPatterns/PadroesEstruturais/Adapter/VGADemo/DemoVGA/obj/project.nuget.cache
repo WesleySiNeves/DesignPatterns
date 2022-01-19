@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "auM+A63qFkSOB0RLUPHoYC7e5UryL3wxHebbmPIGXwYXzbBItxVbETtiAyo8T7fSnqjl7XSN9tWek4qH1kFMCg==",
+  "dgSpecHash": "LVzTrS6znVGzHGPUcGZtI0FJ4R9vNEOoo7qeucoDF7RbuV+RlE8dVE2KIYWJMVwTa3H/spSu2EujlticC1yfvQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\VGADemo\\DemoVGA\\DemoVGA.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

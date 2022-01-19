@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ILcZDbDMaGIbpRZZVD3GOYBCjdbHVRoyBYptNh6eKRgSb0pyXl0jZdA8UwrVo8r67ZfAKjaGq3LA+jT4F4NiOw==",
+  "dgSpecHash": "q3VYs9DnFgZamSx5llqn2JPdiwIToVp87foBl3DkU9VzlWxlz7+oAtYeQN2m9qk5nyRkA43aAZ8wWaKvL21pDA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\Conceptual\\Conceptual.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

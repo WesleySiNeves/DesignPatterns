@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mSFYIQ+VZDbdEB71u/Ci2XC3EIU8/9NKBORnranxqT1Zr4uDoirmS6J2beTg++pmBIq163JwHqV+aRe4dAK/Dw==",
+  "dgSpecHash": "AP5kgKE4QrGLvPBb9ov+ao+1sEyzfJ3/Pev7y2v0k3xxrY/hE1BWOoAK1N/qqvn+wR2oDhdXdPY9vNEw1ODHnw==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\Conceptual\\Conceptual\\Conceptual.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

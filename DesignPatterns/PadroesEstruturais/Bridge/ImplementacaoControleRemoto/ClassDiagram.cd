@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImplementacaoControleRemoto.Concrete.Radio">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAQAIAAAAAAAAAAACAAAAAAoAgQAAIAA=</HashCode>
+      <FileName>Concrete\Radio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ImplementacaoControleRemoto.Concrete.Tv">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAQAIAAAAAAAAAAACAAAAAAoAgQAAIAA=</HashCode>
+      <FileName>Concrete\Tv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ImplementacaoControleRemoto.Abstraction.RemoteControl" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCIAAAEAAAAAAAAAIAAAAAAEAAAAAAgAEAAAQ=</HashCode>
+      <FileName>Abstraction\RemoteControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImplementacaoControleRemoto.RefinedAbstraction.AdvancedRemoteControl" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAIAIAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RefinedAbstraction\AdvancedRemoteControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ImplementacaoControleRemoto.Interface.IDevice">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAQAIAAAAAAAAAAACAAAAAAgAgAAAIAA=</HashCode>
+      <FileName>Interface\IDevice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

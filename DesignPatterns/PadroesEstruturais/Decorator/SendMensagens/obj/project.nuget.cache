@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5zYcVnzHDn6zneha/1b1Wpnh6YTqwk8qaWrUIcjdEfwT7CSFZry76MfglHOX/sYpeGm9TErWjr75b0dMO76fyQ==",
+  "dgSpecHash": "FDYCHrjAkZoBCafdkGuRIlQP08vqzd6r+khxjL69iDIB2oP8lhKmYiwAumh25uiLkVg9iekw/aqLcR+5UxKsKA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Decorator\\SendMensagens\\SendMensagens.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

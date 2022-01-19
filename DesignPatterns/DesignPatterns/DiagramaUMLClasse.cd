@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CartaoCredito.ConcreteCreator.BlackFactory" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIIA=</HashCode>
+      <FileName>ConcreteCreator\BlackFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.ConcreteCreator.PlatiumFactory" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIIA=</HashCode>
+      <FileName>ConcreteCreator\PlatiumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.ConcreteCreator.TitaniumFactory" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIIA=</HashCode>
+      <FileName>ConcreteCreator\TitaniumFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.Creator.CartaoFactory" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Creator\CartaoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.IProduct.CartaoCredito" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAAAQ=</HashCode>
+      <FileName>IProduct\CartaoCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.ProductConcrete.CartaoBlack" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAIIQ=</HashCode>
+      <FileName>ProductConcrete\CartaoBlack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.ProductConcrete.CartaoPlatium" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAIIQ=</HashCode>
+      <FileName>ProductConcrete\CartaoPlatium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.ProductConcrete.CartaoTitanium" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAAAAIIQ=</HashCode>
+      <FileName>ProductConcrete\CartaoTitanium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CartaoCredito.Program">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Client\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CartaoCredito.ValueObjects.CartaoType" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQA=</HashCode>
+      <FileName>ValueObjects\CartaoType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

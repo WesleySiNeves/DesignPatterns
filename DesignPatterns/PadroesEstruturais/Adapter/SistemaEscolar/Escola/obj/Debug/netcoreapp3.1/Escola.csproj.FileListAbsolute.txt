@@ -12,3 +12,17 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstrut
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\bin\Debug\netcoreapp3.1\Escola.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Adapter\SistemaEscolar\Escola\obj\Debug\netcoreapp3.1\Escola.genruntimeconfig.cache

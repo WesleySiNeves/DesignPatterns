@@ -11,3 +11,17 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\Dem
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\bin\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Singleton\DemoSingleton_MultiTheads\obj\Debug\netcoreapp3.1\DemoSingleton_MultiTheads.genruntimeconfig.cache

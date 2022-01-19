@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conceptual_Character/1.0.0": {
+        "runtime": {
+          "Conceptual_Character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conceptual_Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

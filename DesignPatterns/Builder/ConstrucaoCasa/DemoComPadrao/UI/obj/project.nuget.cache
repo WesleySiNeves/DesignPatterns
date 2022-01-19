@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HWMbpQFd/8UYN4b8YODYl5lZgYTEuC1DfjTv5dddzsXmxEUn22NIhZo/afeUv5GvY8KWJ8l0GxRX251Y3ZVyig==",
+  "dgSpecHash": "+oN7bUkNQ9BgEPaOvKf3Til+zo6lPsoqpbIr7+ibYU2Sa6KOmxF8FLunO3lOlEW0+h6iv//CiZKm6G99tM/U7g==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Builder\\ConstrucaoCasa\\DemoComPadrao\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

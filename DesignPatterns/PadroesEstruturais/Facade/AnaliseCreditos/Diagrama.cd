@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnaliseCreditos.SubSistemas.Cadastro">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubSistemas\Cadastro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnaliseCreditos.SubSistemas.Cadin">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubSistemas\Cadin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnaliseCreditos.SubSistemas.LimiteDeCredito">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubSistemas\LimiteDeCredito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnaliseCreditos.SubSistemas.Serasa">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubSistemas\Serasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnaliseCreditos.SubSistemas.Cliente">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SubSistemas\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnaliseCreditos.Facade.AnaliseCreditoFacade">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAgAAAAAIAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade\AnaliseCreditoFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="AnaliseCreditos.Program">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

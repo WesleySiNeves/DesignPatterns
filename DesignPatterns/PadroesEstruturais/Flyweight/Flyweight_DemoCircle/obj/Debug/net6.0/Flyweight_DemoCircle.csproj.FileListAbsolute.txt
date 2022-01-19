@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\Flyweight_DemoCircle.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\Flyweight_DemoCircle.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\Flyweight_DemoCircle.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\Flyweight_DemoCircle.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\ref\Flyweight_DemoCircle.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\bin\Debug\net6.0\Flyweight_DemoCircle.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\ref\Flyweight_DemoCircle.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircle\obj\Debug\net6.0\Flyweight_DemoCircle.genruntimeconfig.cache

@@ -7,3 +7,13 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\Const
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\bin\Debug\netcoreapp3.1\Conceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\DemoComPadrao\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.pdb

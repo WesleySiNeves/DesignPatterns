@@ -12,3 +12,17 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPattern
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.genruntimeconfig.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\CartaoCredito.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\CartaoCredito.genruntimeconfig.cache

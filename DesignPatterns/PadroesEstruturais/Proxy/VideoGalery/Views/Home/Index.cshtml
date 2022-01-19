@@ -1,0 +1,49 @@
+﻿@model   VideoGalery.Models.VideoViewModel 
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post))
+{ 
+
+ <div class="text-center">
+     <h1 class="display-4" > Video Galery</h1>
+ </div>
+ <table>
+     <tr>
+         <td>
+             <h2>
+                 Escolha o video:
+                 @Html.DropDownListFor(Model => Model.SelectedVideoId, new SelectList(Model.Videos, "Id", "Name"),
+                "Selecione..", new { onChange = "this.form.submit()" })
+             </h2>
+
+         </td>
+     </tr>
+     <tr>
+         <td colspan="2" style="padding:10px 0">
+             <video src="@Url.Content(Model.Path)" width="670" height="500" controls typeof="video/mp4" autoplay loop
+                    style="border: 3px solid #808080"></video>
+
+         </td>
+     </tr>
+     <tr>
+         <td >
+            <input type="submit" name="HD" value="High Definition"  style="background-color: #808080" fon/> 
+         </td>
+     </tr>
+ </table>
+
+
+
+
+
+
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem vindo a galery video</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

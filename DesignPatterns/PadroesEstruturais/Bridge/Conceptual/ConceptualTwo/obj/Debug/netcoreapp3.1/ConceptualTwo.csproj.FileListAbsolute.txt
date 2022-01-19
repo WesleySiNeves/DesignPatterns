@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\bin\Debug\netcoreapp3.1\ConceptualTwo.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\Conceptual\ConceptualTwo\obj\Debug\netcoreapp3.1\ConceptualTwo.genruntimeconfig.cache

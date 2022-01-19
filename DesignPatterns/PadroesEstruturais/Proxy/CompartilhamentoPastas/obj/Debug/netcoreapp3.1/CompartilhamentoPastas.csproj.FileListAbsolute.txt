@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\bin\Debug\netcoreapp3.1\CompartilhamentoPastas.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\CompartilhamentoPastas\obj\Debug\netcoreapp3.1\CompartilhamentoPastas.genruntimeconfig.cache

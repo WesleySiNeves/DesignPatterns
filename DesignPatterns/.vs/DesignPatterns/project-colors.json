@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb1b0874-fbd0-4258-8926-98e50acd52a4": {
+      "ProjectGuid": "eb1b0874-fbd0-4258-8926-98e50acd52a4",
+      "DisplayName": "Flyweight_DemoCirclePadrao",
+      "ColorIndex": 0
+    },
+    "cd497270-90a8-424d-8173-fecb726a9cc3": {
+      "ProjectGuid": "cd497270-90a8-424d-8173-fecb726a9cc3",
+      "DisplayName": "DemoPizza",
+      "ColorIndex": 1
+    },
+    "bde9c4d8-ced3-4205-8417-8c6f1129a66d": {
+      "ProjectGuid": "bde9c4d8-ced3-4205-8417-8c6f1129a66d",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 2
+    },
+    "d8f39a31-0fde-4bbc-bf82-c13d75c26335": {
+      "ProjectGuid": "d8f39a31-0fde-4bbc-bf82-c13d75c26335",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 3
+    },
+    "6ced882b-487b-43e9-be9b-0b8c95918cef": {
+      "ProjectGuid": "6ced882b-487b-43e9-be9b-0b8c95918cef",
+      "DisplayName": "RealWorldMath",
+      "ColorIndex": 4
+    },
+    "df5a1f61-de34-418d-96ef-45f893ec315d": {
+      "ProjectGuid": "df5a1f61-de34-418d-96ef-45f893ec315d",
+      "DisplayName": "CompartilhamentoPastas",
+      "ColorIndex": 5
+    },
+    "d05f75b2-0999-4fff-b273-550c98a6675f": {
+      "ProjectGuid": "d05f75b2-0999-4fff-b273-550c98a6675f",
+      "DisplayName": "VideoGalery",
+      "ColorIndex": 6
+    },
+    "42df223b-94bb-43f3-bd30-976dceaf61ff": {
+      "ProjectGuid": "42df223b-94bb-43f3-bd30-976dceaf61ff",
+      "DisplayName": "AplicacaoControleRemoto",
+      "ColorIndex": 7
+    },
+    "94c0672e-b88e-44e3-94b8-fb7f6b8dc7be": {
+      "ProjectGuid": "94c0672e-b88e-44e3-94b8-fb7f6b8dc7be",
+      "DisplayName": "ImplementacaoControleRemoto",
+      "ColorIndex": 8
+    },
+    "b85ea728-4d09-4b87-aed4-c12cae9221c7": {
+      "ProjectGuid": "b85ea728-4d09-4b87-aed4-c12cae9221c7",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 9
+    },
+    "6e9ff07f-7047-4f14-85f7-ca755275d2bd": {
+      "ProjectGuid": "6e9ff07f-7047-4f14-85f7-ca755275d2bd",
+      "DisplayName": "ConceptualTwo",
+      "ColorIndex": 10
+    },
+    "a3061a2e-ed0b-4e10-9db2-6f08fd64bd46": {
+      "ProjectGuid": "a3061a2e-ed0b-4e10-9db2-6f08fd64bd46",
+      "DisplayName": "BookBridge",
+      "ColorIndex": 11
+    },
+    "decdee32-1849-40db-b6ec-847cb3479e27": {
+      "ProjectGuid": "decdee32-1849-40db-b6ec-847cb3479e27",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 12
+    },
+    "c37005f1-9a27-4f9c-998f-5eef7413bc99": {
+      "ProjectGuid": "c37005f1-9a27-4f9c-998f-5eef7413bc99",
+      "DisplayName": "AnaliseCreditos",
+      "ColorIndex": 13
+    },
+    "a9021b3e-9fbc-4340-a7ed-a5f24474a03b": {
+      "ProjectGuid": "a9021b3e-9fbc-4340-a7ed-a5f24474a03b",
+      "DisplayName": "ExampleFacadePattern",
+      "ColorIndex": 14
+    },
+    "ecdcd42e-ce9d-45d7-b04f-33ac189eecbe": {
+      "ProjectGuid": "ecdcd42e-ce9d-45d7-b04f-33ac189eecbe",
+      "DisplayName": "CompositeConceptual",
+      "ColorIndex": 15
+    },
+    "fcbf702b-bbeb-441a-9be4-3f25072d9cc4": {
+      "ProjectGuid": "fcbf702b-bbeb-441a-9be4-3f25072d9cc4",
+      "DisplayName": "VendaComputadoresComposite",
+      "ColorIndex": 0
+    },
+    "e0241375-098a-4f23-8054-e86dcda690da": {
+      "ProjectGuid": "e0241375-098a-4f23-8054-e86dcda690da",
+      "DisplayName": "CompositeConceptual2",
+      "ColorIndex": 1
+    },
+    "d30e7191-ad4c-4eda-91c5-c1b4a252456c": {
+      "ProjectGuid": "d30e7191-ad4c-4eda-91c5-c1b4a252456c",
+      "DisplayName": "DepartamentosComposite",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5a562d6f-71d8-4e0c-9a29-1849bfc2091b": {
+      "ProjectGuid": "5a562d6f-71d8-4e0c-9a29-1849bfc2091b",
+      "DisplayName": "Flyweight_DemoCircleNoPadrao",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

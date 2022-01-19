@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Leaf">
+    <Position X="4.594" Y="3.937" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Composite">
+    <Position X="12.511" Y="3.875" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Component&#xD;&#xA;">
+    <Position X="12.604" Y="1.292" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="DepartamentosComposite.Component.Departamento">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAEAAAA=</HashCode>
+      <FileName>Component\Departamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DepartamentosComposite.Composite.Organizacao">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Organizacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DepartamentosComposite.Leaf.Funcionario">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Leaf\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DepartamentosComposite.Program">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

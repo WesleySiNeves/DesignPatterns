@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\bin\Debug\netcoreapp3.1\VendaComputadoresComposite.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\EscolaComposite\obj\Debug\netcoreapp3.1\VendaComputadoresComposite.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Flyweight_DemoCirclePadrao/1.0.0": {
+        "runtime": {
+          "Flyweight_DemoCirclePadrao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flyweight_DemoCirclePadrao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6NcubCWX78PJYpKCQyFe+LlTg53+Gbb/Ps9YGuV4kLdj14sVu2lvIBj792SJE88+2xS7OklBykCHltwgfel6lg==",
+  "dgSpecHash": "MGFwYsRc6uhQ5QcJXiLmW9DVV/mbpJEE7wGEI19dgIN23vPHpRSbV2PJfCAlv3SfbYReAcuKoSkp1sVMp58J5A==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\Client\\Client\\Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

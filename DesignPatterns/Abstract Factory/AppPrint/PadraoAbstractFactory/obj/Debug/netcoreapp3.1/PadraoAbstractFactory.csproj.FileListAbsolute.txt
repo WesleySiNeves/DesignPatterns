@@ -18,3 +18,13 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Fact
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.pdb
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\bin\Debug\netcoreapp3.1\PadraoAbstractFactory.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\bin\Debug\netcoreapp3.1\PadraoAbstractFactory.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\bin\Debug\netcoreapp3.1\PadraoAbstractFactory.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Abstract Factory\AppPrint\PadraoAbstractFactory\obj\Debug\netcoreapp3.1\PadraoAbstractFactory.pdb

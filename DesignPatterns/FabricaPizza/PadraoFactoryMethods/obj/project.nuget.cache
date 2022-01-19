@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GOz0odi/R9i+Qy03jHQbFJRFJaeSEzQVjlTw0k5YKy8PRf3FnpxtRKcBKsD/KYSobvqNRZ+7WPMoLhRtPCooug==",
+  "dgSpecHash": "vVg+Awv/Kx0Qai5r3MRrSLXbkO3Zh3FlwUq5i0RyGM6f7qVq+nSE6fyuF3+aity6u10htY7/WYW+k/afEqKHtQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\FabricaPizza\\PadraoFactoryMethods\\PadraoFactoryMethod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

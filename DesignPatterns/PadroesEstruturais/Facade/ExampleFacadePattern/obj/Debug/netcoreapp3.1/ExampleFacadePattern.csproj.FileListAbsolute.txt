@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\bin\Debug\netcoreapp3.1\ExampleFacadePattern.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\ExampleFacadePattern\obj\Debug\netcoreapp3.1\ExampleFacadePattern.genruntimeconfig.cache

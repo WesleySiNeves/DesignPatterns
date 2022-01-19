@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlyweightSoldadoSemPadrao.Soldado" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQ=</HashCode>
+      <FileName>Soldado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldadoSemPadrao.SoldadoFactory" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAEAABAAAA=</HashCode>
+      <FileName>SoldadoFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldadoSemPadrao.SoldadoArmado">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoArmado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldadoSemPadrao.SoldadoEspada">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoEspada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldadoSemPadrao.SoldadoLanca">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoLanca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightSoldadoSemPadrao.SoldadoPowerRanger">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SoldadoPowerRanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FlyweightSoldadoSemPadrao.TipoSoldado">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAg=</HashCode>
+      <FileName>Soldado.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FVhWjslV6Eq9dgANdoErBy3H3ltV1vDH0EL4o7fK92ZSWyDd6JIJupIUZnrDHX74+AN5cXxFBoqisllABgzQ7A==",
+  "dgSpecHash": "QVpcGE8kI/ibNjTMXdXXR+1CQV2g5LZa+AvtPOodQ3zIOIbx5tVtNdokxz4Kn1NI9RZn3XYBmsDbPdE64MV8DQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

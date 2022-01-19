@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Conceptual.Facade">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMAAAAAAAiEAAAAAAAAAAAA=</HashCode>
+      <FileName>Facade.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_subsystem1" />
+      <Field Name="_subsystem2" />
+      <Field Name="_subsystem3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Conceptual.Subsystem.Subsystem1">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsystem\Subsystem1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.Subsystem.Subsystem2">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsystem\Subsystem2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.Subsystem.Subsystem3">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subsystem\Subsystem3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conceptual.Client">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

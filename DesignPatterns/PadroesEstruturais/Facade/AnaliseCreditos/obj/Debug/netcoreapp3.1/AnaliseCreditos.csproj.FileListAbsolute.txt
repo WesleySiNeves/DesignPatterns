@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\bin\Debug\netcoreapp3.1\AnaliseCreditos.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Facade\AnaliseCreditos\obj\Debug\netcoreapp3.1\AnaliseCreditos.genruntimeconfig.cache

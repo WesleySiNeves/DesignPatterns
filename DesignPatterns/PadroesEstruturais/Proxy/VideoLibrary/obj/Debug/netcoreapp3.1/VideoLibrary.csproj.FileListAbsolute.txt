@@ -1,0 +1,10 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\bin\Debug\netcoreapp3.1\VideoLibrary.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoLibrary\obj\Debug\netcoreapp3.1\VideoLibrary.csproj.AssemblyReference.cache

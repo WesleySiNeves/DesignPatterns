@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u+NZmmAwKnOdWNfA67IasbP6gWFwEKClKZKAZoVVLUDW49HJ/O56PR5ebd7SKk0rrsRPi95JKlXDfUjif0iEwQ==",
+  "dgSpecHash": "8mxtoAs+nSBsgk5s+1p5HUmjn9PXMy3B/4a1W4Sq7QZ+EU/amXa9b5jxEe4o97189i/UWcbNFRrFkoyB1zHmUQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Decorator\\DemoPizza\\DemoPizza.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.runtimeconfig.dev.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\bin\Debug\netcoreapp3.1\DepartamentosComposite.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Composite\DepartamentosComposite\obj\Debug\netcoreapp3.1\DepartamentosComposite.csproj.AssemblyReference.cache

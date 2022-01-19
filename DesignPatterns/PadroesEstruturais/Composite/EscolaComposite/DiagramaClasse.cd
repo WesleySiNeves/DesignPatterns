@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Component&#xD;&#xA;">
+    <Position X="11.99" Y="1.312" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Leaf">
+    <Position X="7.687" Y="3.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Composite">
+    <Position X="13.812" Y="3.104" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="VendaComputadoresComposite.Component.Periferico">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAACAAAAAQAAAAAEAAAA=</HashCode>
+      <FileName>Component\Periferico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VendaComputadoresComposite.Composite.Computador">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>Composite\Computador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VendaComputadoresComposite.Leaf.Peca">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAACAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Leaf\Peca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VendaComputadoresComposite.Program" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

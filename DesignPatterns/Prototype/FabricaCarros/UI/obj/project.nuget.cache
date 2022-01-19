@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "o3oDmWPd/XmwjGSbTw7Z13u9hZzSWn8krY3iie84rxUkRiaQ5S+9WhV8CI/hv0dtOnBU5cRcLUsfbqASR35TkQ==",
+  "dgSpecHash": "ee9rdIrLfgQjSK78rlT2qdTZ26y1+iHEWYjnoJM8pdyEH9JsRt/xOdB0RsSLmmvTd9vTu8QxF3nZ/TuMnUGvCQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\FabricaCarros\\UI\\UI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

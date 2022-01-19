@@ -8,3 +8,13 @@ D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.csproj.CoreCompileInputs.cache
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
 D:\Wesley\VersionCode\DesignPatterns\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\bin\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\FabricaPizza\PadraoFactoryMethods\obj\Debug\netcoreapp3.1\PadraoFactoryMethod.pdb

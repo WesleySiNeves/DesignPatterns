@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\Conceptual_Character.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\Conceptual_Character.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\Conceptual_Character.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\Conceptual_Character.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\ref\Conceptual_Character.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\bin\Debug\net6.0\Conceptual_Character.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\ref\Conceptual_Character.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Conceptual_Character\obj\Debug\net6.0\Conceptual_Character.genruntimeconfig.cache
