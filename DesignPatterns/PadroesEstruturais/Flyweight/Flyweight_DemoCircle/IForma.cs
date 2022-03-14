@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Flyweight_DemoCircle
+namespace Flyweight_DemoCirclePadrao
 {
 
     /// <summary>

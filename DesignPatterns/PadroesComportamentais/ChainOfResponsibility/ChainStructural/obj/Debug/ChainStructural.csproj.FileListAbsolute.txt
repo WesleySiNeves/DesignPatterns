@@ -1,0 +1,8 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\bin\Debug\ChainStructural.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\bin\Debug\ChainStructural.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\bin\Debug\ChainStructural.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\obj\Debug\ChainStructural.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\obj\Debug\ChainStructural.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\obj\Debug\ChainStructural.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\obj\Debug\ChainStructural.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\ChainStructural\obj\Debug\ChainStructural.pdb

@@ -1,0 +1,8 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\bin\Debug\SolicitacoesCompras2.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\bin\Debug\SolicitacoesCompras2.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\bin\Debug\SolicitacoesCompras2.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\obj\Debug\SolicitacoesCompras2.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\obj\Debug\SolicitacoesCompras2.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\obj\Debug\SolicitacoesCompras2.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\obj\Debug\SolicitacoesCompras2.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\ChainOfResponsibility\SolicitacoesCompras2\obj\Debug\SolicitacoesCompras2.pdb

@@ -1,7 +1,7 @@
 ﻿using Conceptual.DecoratorConcrect.DecoratorBase;
 using Conceptual.Interface;
 
-namespace Conceptual.Concrect
+namespace Conceptual.DecoratorConcrect
 {
     class ConcreteDecoratorA : Decorator
     {

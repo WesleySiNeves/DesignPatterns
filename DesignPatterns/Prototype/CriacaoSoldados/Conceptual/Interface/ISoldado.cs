@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Conceptual.ConcretPrototype.Interface
+namespace Conceptual.Interface
 {
     public interface ISoldado
     {

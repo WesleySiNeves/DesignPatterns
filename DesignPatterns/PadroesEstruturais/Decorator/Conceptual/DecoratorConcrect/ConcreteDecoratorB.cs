@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Conceptual.Concrect
+namespace Conceptual.DecoratorConcrect
 {
     class ConcreteDecoratorB : Decorator
     {

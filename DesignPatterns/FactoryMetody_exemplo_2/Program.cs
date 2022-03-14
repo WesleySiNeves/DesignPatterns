@@ -3,7 +3,7 @@ using ExampleTransacaoCartao.Domain.ValueObject;
 using ExampleTransacaoCartao.Manager.Factory;
 using System;
 
-namespace FactoryMetody_exemplo_2
+namespace ExampleTransacaoCartao
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace FactoryMetody_exemplo_2
 
             var creditCardProcessor = TransactionProcessorFactory.CreateTransactionProcessor(TransactionType.CreditCard);
 
-            var transacao = new CrediCardTransaction(50000, "Wesley Neves", "999", "12345678911",quantidadeParcelas:10);
+            var transacao = new CrediCardTransaction(50000, "Wesley Neves", "999", "12345678911", quantidadeParcelas: 10);
 
 
             var transacaoInfo = creditCardProcessor.Autorize(transacao);
@@ -27,7 +27,7 @@ namespace FactoryMetody_exemplo_2
 
             var debitCardProcessor = TransactionProcessorFactory.CreateTransactionProcessor(TransactionType.Debit);
 
-            var transacaoDebit = new DebitTransaction(1000,"Banco do Brasil");
+            var transacaoDebit = new DebitTransaction(1000, "Banco do Brasil");
 
 
             var transacaoDebitInfo = debitCardProcessor.Autorize(transacaoDebit);

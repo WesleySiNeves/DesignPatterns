@@ -2,7 +2,7 @@
 using CartaoCredito.Creator;
 using System;
 
-namespace CartaoCredito
+namespace CartaoCredito.Client
 {
     class Program
     {
@@ -36,7 +36,7 @@ namespace CartaoCredito
             }
 
 
-           IProduct.CartaoCredito cartaoCredito  =  cartaoFactory.NewCreator();
+            IProduct.CartaoCredito cartaoCredito = cartaoFactory.NewCreator();
 
             Console.WriteLine("Cartão criado:" + cartaoCredito.Tipo);
             Console.WriteLine("Limite anual:" + cartaoCredito.LimiteCredito);

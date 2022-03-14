@@ -1,6 +1,6 @@
 ﻿using System;
 using Conceptual.Cliente;
-using Conceptual.Concrect;
+using Conceptual.DecoratorConcrect;
 
 namespace Conceptual
 {

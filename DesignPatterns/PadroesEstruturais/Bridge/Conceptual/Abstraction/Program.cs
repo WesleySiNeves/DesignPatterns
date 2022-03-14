@@ -1,7 +1,6 @@
-﻿using Conceptual;
-using System;
+﻿using System;
 
-namespace Bridge.Conceptual.Conceptual
+namespace Conceptual
 {
     class Program
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SubjectInterface
+namespace RealWorldMath.SubjectInterface
 {
     public interface IMath
     {

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Flyweight_DemoCircle
+namespace Flyweight_DemoCirclePadrao
 {
-    public  class Circulo : IForma
+    public class Circulo : IForma
     {
 
         /// <summary>

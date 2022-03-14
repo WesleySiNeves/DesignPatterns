@@ -1,6 +1,6 @@
 ﻿using PadraoAbstractFactory.Product.AbstractProduct;
 
-namespace PadraoAbstractFactory.Product.ConcreteFactory
+namespace PadraoAbstractFactory.Product.ConcreteProduct
 {
     public class SandwichPicanha : Sandwich
     {

@@ -105,7 +105,52 @@
       "ProjectGuid": "5a562d6f-71d8-4e0c-9a29-1849bfc2091b",
       "DisplayName": "Flyweight_DemoCircleNoPadrao",
       "ColorIndex": 3
+    },
+    "35f7a199-e5b9-440d-8f35-ecab86762425": {
+      "ProjectGuid": "35f7a199-e5b9-440d-8f35-ecab86762425",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 4
+    },
+    "7e455c18-6a12-4c3c-9dcf-090e54b2115d": {
+      "ProjectGuid": "7e455c18-6a12-4c3c-9dcf-090e54b2115d",
+      "DisplayName": "Conceptual_Character",
+      "ColorIndex": 5
+    },
+    "9dd83935-f6c3-4564-a253-16735d320503": {
+      "ProjectGuid": "9dd83935-f6c3-4564-a253-16735d320503",
+      "DisplayName": "FlyweightSoldado",
+      "ColorIndex": 6
+    },
+    "25749e81-04cc-4080-9475-73e23a74b9fa": {
+      "ProjectGuid": "25749e81-04cc-4080-9475-73e23a74b9fa",
+      "DisplayName": "FlyweightSoldadoSemPadrao",
+      "ColorIndex": 7
+    },
+    "311e8eac-2d94-4e77-ba0e-2063778bcbf4": {
+      "ProjectGuid": "311e8eac-2d94-4e77-ba0e-2063778bcbf4",
+      "DisplayName": "ChainOfResponsibility",
+      "ColorIndex": 8
+    },
+    "cd092499-bf8d-4db3-b02f-f0a17d273896": {
+      "ProjectGuid": "cd092499-bf8d-4db3-b02f-f0a17d273896",
+      "DisplayName": "ChainStructural",
+      "ColorIndex": 9
+    },
+    "7ba060b9-c40f-4a95-9182-e7436f0b185c": {
+      "ProjectGuid": "7ba060b9-c40f-4a95-9182-e7436f0b185c",
+      "DisplayName": "SolicitacoesDeCompras",
+      "ColorIndex": 10
+    },
+    "43c47560-d5a8-44d3-b6b2-1ec02757bff6": {
+      "ProjectGuid": "43c47560-d5a8-44d3-b6b2-1ec02757bff6",
+      "DisplayName": "SolicitacoesCompras2",
+      "ColorIndex": 11
+    },
+    "a6425766-dc4a-44de-823d-221d3e774d75": {
+      "ProjectGuid": "a6425766-dc4a-44de-823d-221d3e774d75",
+      "DisplayName": "ATMDispense",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 13
 }

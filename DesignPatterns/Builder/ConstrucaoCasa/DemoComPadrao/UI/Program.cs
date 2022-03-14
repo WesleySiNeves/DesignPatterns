@@ -1,10 +1,11 @@
+using ContrucaoCasa.Padrao.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ContrucaoCasa.Padrao.UI
+namespace UI
 {
     static class Program
     {
