@@ -1,0 +1,11 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\bin\Debug\RestauranteAPP.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\bin\Debug\RestauranteAPP.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\bin\Debug\RestauranteAPP.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.Form1.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.Properties.Resources.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.csproj.GenerateResource.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\RestauranteAPP\obj\Debug\RestauranteAPP.pdb

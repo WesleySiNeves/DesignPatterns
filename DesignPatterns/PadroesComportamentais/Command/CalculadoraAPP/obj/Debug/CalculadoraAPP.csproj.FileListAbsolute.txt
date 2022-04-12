@@ -1,0 +1,11 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.Form1.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.Properties.Resources.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.csproj.GenerateResource.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\bin\Debug\CalculadoraAPP.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\bin\Debug\CalculadoraAPP.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\bin\Debug\CalculadoraAPP.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAPP\obj\Debug\CalculadoraAPP.pdb

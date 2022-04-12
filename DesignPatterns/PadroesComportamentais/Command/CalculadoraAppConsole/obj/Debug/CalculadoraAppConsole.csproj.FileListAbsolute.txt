@@ -1,0 +1,7 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\bin\Debug\CalculadoraAppConsole.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\bin\Debug\CalculadoraAppConsole.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\bin\Debug\CalculadoraAppConsole.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.pdb

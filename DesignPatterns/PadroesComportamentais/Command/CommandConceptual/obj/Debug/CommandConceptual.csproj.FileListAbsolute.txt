@@ -1,0 +1,7 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.csproj.SuggestedBindingRedirects.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\bin\Debug\CommandConceptual.exe.config
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\bin\Debug\CommandConceptual.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\bin\Debug\CommandConceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.pdb

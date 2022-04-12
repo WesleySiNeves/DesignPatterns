@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="1) A classe Remetente (também conhecida como invocadora) é responsável por iniciar os pedidos. &#xD;&#xA;Essa classe deve ter um campo para armazenar a referência para um objeto comando.&#xD;&#xA;O remetente aciona aquele comando ao invés de enviar o pedido diretamente para o destinatário. &#xD;&#xA;Observe que o remetente não é responsável por criar o objeto comando. Geralmente ele é pré criado através de um construtor do cliente.">
+    <Position X="1.833" Y="0.5" Height="1.51" Width="5.075" />
+  </Comment>
+  <Comment CommentText="2)  A interface Comando geralmente declara apenas um único método para executar o comando">
+    <Position X="8.719" Y="0.5" Height="0.729" Width="3.106" />
+  </Comment>
+  <Comment CommentText="3) Comandos Concretos implementam vários tipos de pedidos. Um comando concreto não deve realizar o trabalho por conta própria, mas passar a chamada para um dos objetos da lógica do negócio.">
+    <Position X="7.396" Y="3.094" Height="1.156" Width="3.638" />
+  </Comment>
+  <Comment CommentText="3) A classe Destinatária contém a lógica do negócio. Quase qualquer objeto pode servir como um destinatário. A maioria dos comandos apenas lida com os detalhes de como um pedido é passado para o destinatário, enquanto que o destinatário em si executa o verdadeiro trabalho.">
+    <Position X="3.344" Y="4.354" Height="1.156" Width="3.638" />
+  </Comment>
+  <Class Name="CommandConceptual.Commands.ComplexCommand">
+    <Position X="7.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAQAQAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\ComplexCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommandConceptual.Commands.SimpleCommand">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\SimpleCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CommandConceptual.Remetente.Invoker">
+    <Position X="3.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAIAAAAIAg=</HashCode>
+      <FileName>Remetente\Invoker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandConceptual.Receptores.Receptor">
+    <Position X="4.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Receptores\Receptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandConceptual.Program">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommandConceptual.Interface.ICommand">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

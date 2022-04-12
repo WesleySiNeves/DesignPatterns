@@ -150,7 +150,37 @@
       "ProjectGuid": "a6425766-dc4a-44de-823d-221d3e774d75",
       "DisplayName": "ATMDispense",
       "ColorIndex": 12
+    },
+    "7c6ea67f-6bef-4868-8dad-42aa16f8b5f4": {
+      "ProjectGuid": "7c6ea67f-6bef-4868-8dad-42aa16f8b5f4",
+      "DisplayName": "CommandConceptual",
+      "ColorIndex": 13
+    },
+    "81a95e7a-8d52-42d8-a43c-6cfa654c6b40": {
+      "ProjectGuid": "81a95e7a-8d52-42d8-a43c-6cfa654c6b40",
+      "DisplayName": "Structural",
+      "ColorIndex": 14
+    },
+    "cbd8fbfa-079c-4d6c-90a2-d6981d2d3042": {
+      "ProjectGuid": "cbd8fbfa-079c-4d6c-90a2-d6981d2d3042",
+      "DisplayName": "CalculadoraAPP",
+      "ColorIndex": 15
+    },
+    "49a6e0ec-fecb-41fc-a62c-8d3db51f382d": {
+      "ProjectGuid": "49a6e0ec-fecb-41fc-a62c-8d3db51f382d",
+      "DisplayName": "CalculadoraAppConsole",
+      "ColorIndex": 0
+    },
+    "4b3b9ab0-4f48-4bb4-a265-1f3f124f34ae": {
+      "ProjectGuid": "4b3b9ab0-4f48-4bb4-a265-1f3f124f34ae",
+      "DisplayName": "ComamandPattern",
+      "ColorIndex": 1
+    },
+    "901595ee-c3b4-4c7c-b6ae-81c84819c4a1": {
+      "ProjectGuid": "901595ee-c3b4-4c7c-b6ae-81c84819c4a1",
+      "DisplayName": "RestauranteAPP",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 3
 }
