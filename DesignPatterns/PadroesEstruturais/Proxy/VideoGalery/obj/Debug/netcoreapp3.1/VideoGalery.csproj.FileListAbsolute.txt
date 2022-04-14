@@ -36,4 +36,3 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoGale
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoGalery\obj\Debug\netcoreapp3.1\VideoGalery.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoGalery\obj\Debug\netcoreapp3.1\VideoGalery.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoGalery\obj\Debug\netcoreapp3.1\VideoGalery.genruntimeconfig.cache
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Proxy\VideoGalery\bin\Debug\netcoreapp3.1\VideoGalery.StaticWebAssets.xml

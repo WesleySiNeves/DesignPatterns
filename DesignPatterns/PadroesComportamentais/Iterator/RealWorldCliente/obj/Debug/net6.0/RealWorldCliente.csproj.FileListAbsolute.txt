@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\RealWorldCliente.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\RealWorldCliente.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\RealWorldCliente.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\RealWorldCliente.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\ref\RealWorldCliente.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\bin\Debug\net6.0\RealWorldCliente.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\ref\RealWorldCliente.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorldCliente\obj\Debug\net6.0\RealWorldCliente.genruntimeconfig.cache

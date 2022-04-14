@@ -180,7 +180,152 @@
       "ProjectGuid": "901595ee-c3b4-4c7c-b6ae-81c84819c4a1",
       "DisplayName": "RestauranteAPP",
       "ColorIndex": 2
+    },
+    "9b2387ab-d9ac-47c7-b4fb-d9ac697d216f": {
+      "ProjectGuid": "9b2387ab-d9ac-47c7-b4fb-d9ac697d216f",
+      "DisplayName": "Structural",
+      "ColorIndex": 3
+    },
+    "bb529bd6-4df5-443f-ba01-2e5891bebba5": {
+      "ProjectGuid": "bb529bd6-4df5-443f-ba01-2e5891bebba5",
+      "DisplayName": "RealWorld",
+      "ColorIndex": 4
+    },
+    "5a622393-6f50-4db2-9f2a-37b0d471f55c": {
+      "ProjectGuid": "5a622393-6f50-4db2-9f2a-37b0d471f55c",
+      "DisplayName": "Conceptual",
+      "ColorIndex": 5
+    },
+    "ce458c78-a47e-46f0-ac75-6f326a24bf7c": {
+      "ProjectGuid": "ce458c78-a47e-46f0-ac75-6f326a24bf7c",
+      "DisplayName": "RealWorldCliente",
+      "ColorIndex": 6
+    },
+    "d0d8b38f-83d1-467b-8348-2d962fc19441": {
+      "ProjectGuid": "d0d8b38f-83d1-467b-8348-2d962fc19441",
+      "DisplayName": "ExampleTransacaoCartao",
+      "ColorIndex": 7
+    },
+    "b1cbaf21-108f-4ce2-8370-55019e19b825": {
+      "ProjectGuid": "b1cbaf21-108f-4ce2-8370-55019e19b825",
+      "DisplayName": "DemoSimple",
+      "ColorIndex": 8
+    },
+    "f59c9937-88aa-426c-b042-b0e3f232f23e": {
+      "ProjectGuid": "f59c9937-88aa-426c-b042-b0e3f232f23e",
+      "DisplayName": "FabricaPizzaUI",
+      "ColorIndex": 9
+    },
+    "417d1962-1d10-4d41-bba1-65da033dcf2d": {
+      "ProjectGuid": "417d1962-1d10-4d41-bba1-65da033dcf2d",
+      "DisplayName": "UI",
+      "ColorIndex": 10
+    },
+    "a2cf3d6b-5539-45ff-a99f-d5ee78192728": {
+      "ProjectGuid": "a2cf3d6b-5539-45ff-a99f-d5ee78192728",
+      "DisplayName": "UI",
+      "ColorIndex": 11
+    },
+    "be6c6078-2cdb-45ab-bbc4-0a16b717e478": {
+      "ProjectGuid": "be6c6078-2cdb-45ab-bbc4-0a16b717e478",
+      "DisplayName": "DemoSample",
+      "ColorIndex": 12
+    },
+    "2377d165-5238-419b-a239-5c9599e1d759": {
+      "ProjectGuid": "2377d165-5238-419b-a239-5c9599e1d759",
+      "DisplayName": "UI",
+      "ColorIndex": 13
+    },
+    "402f10a7-021b-476d-a3e2-da16cf45a5d4": {
+      "ProjectGuid": "402f10a7-021b-476d-a3e2-da16cf45a5d4",
+      "DisplayName": "LanchoneteUI",
+      "ColorIndex": 14
+    },
+    "c94da4f1-ffc3-46e4-844a-fa19f65c1c37": {
+      "ProjectGuid": "c94da4f1-ffc3-46e4-844a-fa19f65c1c37",
+      "DisplayName": "UI",
+      "ColorIndex": 15
+    },
+    "b568b434-8f62-4eea-ab9a-099880cd104f": {
+      "ProjectGuid": "b568b434-8f62-4eea-ab9a-099880cd104f",
+      "DisplayName": "UI",
+      "ColorIndex": 0
+    },
+    "9f5357c0-a6a7-48c8-bf3c-05e66ce339a2": {
+      "ProjectGuid": "9f5357c0-a6a7-48c8-bf3c-05e66ce339a2",
+      "DisplayName": "DemoSingleton_MultiTheads",
+      "ColorIndex": 1
+    },
+    "db671f4b-c522-4a03-972a-8463bd6c0e1f": {
+      "ProjectGuid": "db671f4b-c522-4a03-972a-8463bd6c0e1f",
+      "DisplayName": "UI",
+      "ColorIndex": 2
+    },
+    "3f6920f0-7037-4437-aeba-829fcc257561": {
+      "ProjectGuid": "3f6920f0-7037-4437-aeba-829fcc257561",
+      "DisplayName": "EmailUI",
+      "ColorIndex": 3
+    },
+    "148072af-395a-4c36-9567-3dcd2ed51ee7": {
+      "ProjectGuid": "148072af-395a-4c36-9567-3dcd2ed51ee7",
+      "DisplayName": "ContrucaoCasaUISemPadrao",
+      "ColorIndex": 4
+    },
+    "82e5c103-43f7-49f3-a169-98eddbaaa5f7": {
+      "ProjectGuid": "82e5c103-43f7-49f3-a169-98eddbaaa5f7",
+      "DisplayName": "UI",
+      "ColorIndex": 5
+    },
+    "6071231a-2b04-4ce2-90ec-6eeeee11ade2": {
+      "ProjectGuid": "6071231a-2b04-4ce2-90ec-6eeeee11ade2",
+      "DisplayName": "UI",
+      "ColorIndex": 6
+    },
+    "40dcdf2c-fe2f-4ee0-bfaa-79d9e5def72e": {
+      "ProjectGuid": "40dcdf2c-fe2f-4ee0-bfaa-79d9e5def72e",
+      "DisplayName": "UI",
+      "ColorIndex": 7
+    },
+    "0cce006f-3d71-44e3-8a7c-58eb7ab87b57": {
+      "ProjectGuid": "0cce006f-3d71-44e3-8a7c-58eb7ab87b57",
+      "DisplayName": "UI",
+      "ColorIndex": 8
+    },
+    "856b0dad-db05-43cf-8158-fec0e097522b": {
+      "ProjectGuid": "856b0dad-db05-43cf-8158-fec0e097522b",
+      "DisplayName": "SoldadoUi",
+      "ColorIndex": 9
+    },
+    "5dbbf190-0543-42bd-b0bb-31b53c3d7012": {
+      "ProjectGuid": "5dbbf190-0543-42bd-b0bb-31b53c3d7012",
+      "DisplayName": "Client",
+      "ColorIndex": 10
+    },
+    "3949c827-7a26-4592-b970-8d5a2de85c5b": {
+      "ProjectGuid": "3949c827-7a26-4592-b970-8d5a2de85c5b",
+      "DisplayName": "Padrao",
+      "ColorIndex": 11
+    },
+    "9b5741eb-1a84-449b-8cc4-eb3811ffcd03": {
+      "ProjectGuid": "9b5741eb-1a84-449b-8cc4-eb3811ffcd03",
+      "DisplayName": "Escola",
+      "ColorIndex": 12
+    },
+    "498332bf-81e1-491e-8757-9ac0d834ed1e": {
+      "ProjectGuid": "498332bf-81e1-491e-8757-9ac0d834ed1e",
+      "DisplayName": "DemoVGA",
+      "ColorIndex": 13
+    },
+    "005e9964-3743-466d-81c2-8cfbde0579ac": {
+      "ProjectGuid": "005e9964-3743-466d-81c2-8cfbde0579ac",
+      "DisplayName": "SendMensagens",
+      "ColorIndex": 14
+    },
+    "05a84e03-279a-400f-9e25-b112146f3a7b": {
+      "ProjectGuid": "05a84e03-279a-400f-9e25-b112146f3a7b",
+      "DisplayName": "RealWordClienteGenerics",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 0
 }

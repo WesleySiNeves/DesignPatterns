@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Agregate">
+    <Position X="5.646" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Concrete Agregate">
+    <Position X="5.553" Y="3.782" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Iterator">
+    <Position X="9.104" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Concrete Iterator">
+    <Position X="10.521" Y="3.812" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="RealWorld.Collection.Item">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collection\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealWorld.Concrete.Collection">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\Collection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RealWorld.Concrete.Iterator">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAEAAAAAAgABgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Concrete\Iterator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="RealWorld.Aggregate.IAbstractCollection">
+    <Position X="5.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IAbstractCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RealWorld.Interface.IAbstractIterator">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IAbstractIterator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
