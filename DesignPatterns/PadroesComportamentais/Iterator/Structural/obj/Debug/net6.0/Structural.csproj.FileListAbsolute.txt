@@ -2,7 +2,6 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\St
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\bin\Debug\net6.0\Structural.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\bin\Debug\net6.0\Structural.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\bin\Debug\net6.0\Structural.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\bin\Debug\net6.0\ref\Structural.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\bin\Debug\net6.0\Structural.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\Structural.GeneratedMSBuildEditorConfig.editorconfig
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\Structural.AssemblyInfoInputs.cache
@@ -13,3 +12,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\St
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\Structural.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\Structural.genruntimeconfig.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\Structural.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Structural\obj\Debug\net6.0\refint\Structural.dll

@@ -7,9 +7,9 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flywe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\bin\Debug\net6.0\Flyweight_DemoCircleNoPadrao.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\bin\Debug\net6.0\Flyweight_DemoCircleNoPadrao.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\bin\Debug\net6.0\Flyweight_DemoCircleNoPadrao.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\bin\Debug\net6.0\ref\Flyweight_DemoCircleNoPadrao.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\bin\Debug\net6.0\Flyweight_DemoCircleNoPadrao.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\obj\Debug\net6.0\Flyweight_DemoCircleNoPadrao.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\obj\Debug\net6.0\ref\Flyweight_DemoCircleNoPadrao.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\obj\Debug\net6.0\Flyweight_DemoCircleNoPadrao.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\obj\Debug\net6.0\Flyweight_DemoCircleNoPadrao.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flyweight_DemoCircleNoPadrao\obj\Debug\net6.0\refint\Flyweight_DemoCircleNoPadrao.dll

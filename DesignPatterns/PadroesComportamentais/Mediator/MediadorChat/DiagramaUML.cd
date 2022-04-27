@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MediadorChat.Mediator.ChatMediator">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator\ChatMediator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MediadorChat.Colleague.BasicUser">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAACAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Colleague\BasicUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MediadorChat.Colleague.PremiumUser">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAACAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Colleague\PremiumUser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MediadorChat.Mediator.IChatMediator">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Mediator\IChatMediator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MediadorChat.Colleague.IUser">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Colleague\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

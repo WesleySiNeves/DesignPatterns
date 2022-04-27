@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iAKVuOYboCetGomVPK4oHS20y10OnIBw2xpmfYRRJtzXv1ctUQSeABry4mz2gpELHd0Fx8XpBazFET3UAykSiQ==",
+  "dgSpecHash": "OxG5/+RA15omZWeC51Su2BcvVn5mbAtu2/8hxwQRBt7OwacL0W2ZKj5lRxO7zjhpW7tWIU8e04sjHlmHFwcibQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Abstract Factory\\AppSanduiches\\LanchoneteUI\\LanchoneteUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

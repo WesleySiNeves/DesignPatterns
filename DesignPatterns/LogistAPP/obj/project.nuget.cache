@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f2bwKDtZ0EqJL7b8E2YHxFiCAcLvJ44HuXFH2V+vhbe2loQBHU+XnDZWBiZgG6v6Bg9EaWnqNNSRU62IeB1YYg==",
+  "dgSpecHash": "cWAD4yO9uZMmBD5OsaNie2DqnCa2OGwfdt1H+bLlQQkV9DsrQq+sDG4elEY0L2RmaEnBACLWHXLLbYWBJqa7Qg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

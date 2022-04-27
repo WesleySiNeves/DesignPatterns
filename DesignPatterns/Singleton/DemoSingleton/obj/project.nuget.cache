@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uXoDyGpBFGEuz+J55aFvCcT2mcf8zgaQ9FUdLzKvVFXaCWNhC/0BQkVNyZL2tSgQpoQXcuWtGGQst4PtU2dXcw==",
+  "dgSpecHash": "7nTM9bm75xHlGQ0Zpv2u4IlxK6F6TuKFMFGJxrKzjJQk80MIlj6r7+moY9Bg4WwJBc8JqRxvPBln4vcMlvGnjw==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton\\DemoSingleton.csproj",
   "expectedPackageFiles": [

@@ -16,3 +16,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\Conceptual
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.CoreCompileInputs.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Prototype\FabricaCarros\Conceptual\obj\Debug\netcoreapp3.1\Conceptual.csproj.AssemblyReference.cache

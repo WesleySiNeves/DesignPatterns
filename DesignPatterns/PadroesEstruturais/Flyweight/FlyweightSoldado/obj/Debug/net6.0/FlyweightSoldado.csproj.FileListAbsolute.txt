@@ -7,9 +7,9 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flywe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\bin\Debug\net6.0\FlyweightSoldado.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\bin\Debug\net6.0\FlyweightSoldado.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\bin\Debug\net6.0\FlyweightSoldado.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\bin\Debug\net6.0\ref\FlyweightSoldado.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\bin\Debug\net6.0\FlyweightSoldado.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\obj\Debug\net6.0\FlyweightSoldado.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\obj\Debug\net6.0\ref\FlyweightSoldado.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\obj\Debug\net6.0\FlyweightSoldado.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\obj\Debug\net6.0\FlyweightSoldado.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldado\obj\Debug\net6.0\refint\FlyweightSoldado.dll

@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\bin\Debug\net6.0\MediadorChat.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\bin\Debug\net6.0\MediadorChat.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\bin\Debug\net6.0\MediadorChat.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\bin\Debug\net6.0\MediadorChat.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\bin\Debug\net6.0\MediadorChat.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\refint\MediadorChat.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\MediadorChat.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediadorChat\obj\Debug\net6.0\ref\MediadorChat.dll

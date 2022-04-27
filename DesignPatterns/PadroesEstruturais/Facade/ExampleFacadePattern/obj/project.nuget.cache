@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ysCEvdjOtUmarQ5v56lZrOym/gIdRDNftPyXfWal3fsv+H4q+WwVp4x/r9wrrMmyrTsIj2CvCABYH7zdKqlvKA==",
+  "dgSpecHash": "Oye6ksxcMPqxNxeFUy5l/kCUnclk3eOUpGj9Y0M0VYX/QD2Add77JzbJwgMq+FEY81sxreQK8aAZWxKuBctHRA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Facade\\ExampleFacadePattern\\ExampleFacadePattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

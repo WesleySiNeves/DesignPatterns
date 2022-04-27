@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1q+WkY4nI3fG/vQMKox63MojT4IVDvBDrdxuuLEjVskut5r32qFaSvB7bidUUBcVW+ZuzjGsPvZIB6x3gbCCw==",
+  "dgSpecHash": "jKYRo7KHnMuUK0GgCwdAQBE9UwSbfoMYJo+qyV1btWjGlZB/mTHyWrdlBqqPChHIj0/B7j9ndGhMx+pTXPTX7A==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Abstract Factory\\PadraoAbstractFactory\\PadraoAbstractFactory\\PadraoAbstractFactory.csproj",
   "expectedPackageFiles": [

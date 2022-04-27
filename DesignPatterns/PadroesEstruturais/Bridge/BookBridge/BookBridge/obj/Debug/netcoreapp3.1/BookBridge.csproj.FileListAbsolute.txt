@@ -11,3 +11,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\BookBrid
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\BookBridge\BookBridge\obj\Debug\netcoreapp3.1\BookBridge.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\BookBridge\BookBridge\obj\Debug\netcoreapp3.1\BookBridge.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\BookBridge\BookBridge\obj\Debug\netcoreapp3.1\BookBridge.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Bridge\BookBridge\BookBridge\obj\Debug\netcoreapp3.1\BookBridge.csproj.AssemblyReference.cache

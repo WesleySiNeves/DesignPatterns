@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A9qddGuQ2sx5l7IKCVgZb5sTMw3vFKiQRGc5dffo2b9FExh42rXEf6241KEQafmnkkrW8BTo7DVk1Ycf3oKVUA==",
+  "dgSpecHash": "e4TQ9OnrzPZZavJy+bRz0+ef0UbvW/lhAPgH4+VZObPN95VbMWp1iqz8BY+zffxM6Zs+4uX3MmiKRTqVV+oTRg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Prototype\\CloneCores\\UI\\UI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

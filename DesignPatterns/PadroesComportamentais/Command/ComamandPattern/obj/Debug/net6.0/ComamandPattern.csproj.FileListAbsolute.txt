@@ -2,7 +2,6 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Com
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\bin\Debug\net6.0\ComamandPattern.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\bin\Debug\net6.0\ComamandPattern.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\bin\Debug\net6.0\ComamandPattern.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\bin\Debug\net6.0\ref\ComamandPattern.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\bin\Debug\net6.0\ComamandPattern.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\ComamandPattern.csproj.AssemblyReference.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\ComamandPattern.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Com
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\ref\ComamandPattern.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\ComamandPattern.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\ComamandPattern.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\ComamandPattern\obj\Debug\net6.0\refint\ComamandPattern.dll

@@ -16,3 +16,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.csproj.CoreCompileInputs.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\Builder\ConstrucaoCasa\Conceptual\obj\Debug\netcoreapp3.1\ContrucaoCasaUISemPadraoCode.csproj.AssemblyReference.cache

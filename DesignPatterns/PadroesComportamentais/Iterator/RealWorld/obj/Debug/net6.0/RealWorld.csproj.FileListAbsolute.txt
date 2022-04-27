@@ -2,7 +2,6 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Re
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\bin\Debug\net6.0\RealWorld.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\bin\Debug\net6.0\RealWorld.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\bin\Debug\net6.0\RealWorld.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\bin\Debug\net6.0\ref\RealWorld.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\bin\Debug\net6.0\RealWorld.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\RealWorld.GeneratedMSBuildEditorConfig.editorconfig
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\RealWorld.AssemblyInfoInputs.cache
@@ -13,3 +12,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Re
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\RealWorld.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\RealWorld.genruntimeconfig.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\RealWorld.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWorld\obj\Debug\net6.0\refint\RealWorld.dll

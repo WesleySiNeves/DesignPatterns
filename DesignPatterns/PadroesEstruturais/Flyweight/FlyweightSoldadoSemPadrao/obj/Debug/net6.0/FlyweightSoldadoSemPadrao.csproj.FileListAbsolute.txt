@@ -2,7 +2,6 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flywe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\bin\Debug\net6.0\FlyweightSoldadoSemPadrao.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\bin\Debug\net6.0\FlyweightSoldadoSemPadrao.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\bin\Debug\net6.0\FlyweightSoldadoSemPadrao.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\bin\Debug\net6.0\ref\FlyweightSoldadoSemPadrao.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\bin\Debug\net6.0\FlyweightSoldadoSemPadrao.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\FlyweightSoldadoSemPadrao.GeneratedMSBuildEditorConfig.editorconfig
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\FlyweightSoldadoSemPadrao.AssemblyInfoInputs.cache
@@ -12,3 +11,5 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\Flywe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\ref\FlyweightSoldadoSemPadrao.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\FlyweightSoldadoSemPadrao.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\FlyweightSoldadoSemPadrao.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\FlyweightSoldadoSemPadrao.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesEstruturais\Flyweight\FlyweightSoldadoSemPadrao\obj\Debug\net6.0\refint\FlyweightSoldadoSemPadrao.dll

@@ -7,9 +7,9 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Str
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\bin\Debug\net6.0\Structural.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\bin\Debug\net6.0\Structural.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\bin\Debug\net6.0\Structural.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\bin\Debug\net6.0\ref\Structural.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\bin\Debug\net6.0\Structural.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\obj\Debug\net6.0\Structural.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\obj\Debug\net6.0\ref\Structural.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\obj\Debug\net6.0\Structural.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\obj\Debug\net6.0\Structural.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Structural\obj\Debug\net6.0\refint\Structural.dll

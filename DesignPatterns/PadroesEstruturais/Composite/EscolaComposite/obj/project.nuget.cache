@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HJ/el0glel0+1IrtZe5xp3FUS3bok2+GzFTXtimju4DT+nUjbbR3LMpB4IPvvTJ8HdrX0kmbapqYv/ZcyoBddw==",
+  "dgSpecHash": "u2tuCEsaJ7cR1g8UTPjhpQWcU5S/Lg+hInA07rkMo2+KNMnf+E096kdNEjGKDOKMp5tpZafiM0n1zbwen/R7vQ==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Composite\\EscolaComposite\\VendaComputadoresComposite.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

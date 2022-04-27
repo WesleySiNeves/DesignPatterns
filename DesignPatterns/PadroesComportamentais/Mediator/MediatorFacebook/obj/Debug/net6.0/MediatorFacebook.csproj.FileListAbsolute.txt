@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\bin\Debug\net6.0\MediatorFacebook.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\bin\Debug\net6.0\MediatorFacebook.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\bin\Debug\net6.0\MediatorFacebook.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\bin\Debug\net6.0\MediatorFacebook.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\bin\Debug\net6.0\MediatorFacebook.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\refint\MediatorFacebook.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\MediatorFacebook.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Mediator\MediatorFacebook\obj\Debug\net6.0\ref\MediatorFacebook.dll

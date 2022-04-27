@@ -253,15 +253,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestauranteAPP", "PadroesCo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterator", "Iterator", "{67CF3200-7FE3-4011-A5CA-F0DDBC98524F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "PadroesComportamentais\Iterator\Structural\Structural.csproj", "{9B2387AB-D9AC-47C7-B4FB-D9AC697D216F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural", "PadroesComportamentais\Iterator\Structural\Structural.csproj", "{9B2387AB-D9AC-47C7-B4FB-D9AC697D216F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorld", "PadroesComportamentais\Iterator\RealWorld\RealWorld.csproj", "{BB529BD6-4DF5-443F-BA01-2E5891BEBBA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealWorld", "PadroesComportamentais\Iterator\RealWorld\RealWorld.csproj", "{BB529BD6-4DF5-443F-BA01-2E5891BEBBA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceptual", "PadroesComportamentais\Iterator\Conceptual\Conceptual.csproj", "{5A622393-6F50-4DB2-9F2A-37B0D471F55C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conceptual", "PadroesComportamentais\Iterator\Conceptual\Conceptual.csproj", "{5A622393-6F50-4DB2-9F2A-37B0D471F55C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldCliente", "PadroesComportamentais\Iterator\RealWorldCliente\RealWorldCliente.csproj", "{CE458C78-A47E-46F0-AC75-6F326A24BF7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealWorldCliente", "PadroesComportamentais\Iterator\RealWorldCliente\RealWorldCliente.csproj", "{CE458C78-A47E-46F0-AC75-6F326A24BF7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWordClienteGenerics", "PadroesComportamentais\Iterator\RealWordClienteGenerics\RealWordClienteGenerics.csproj", "{05A84E03-279A-400F-9E25-B112146F3A7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealWordClienteGenerics", "PadroesComportamentais\Iterator\RealWordClienteGenerics\RealWordClienteGenerics.csproj", "{05A84E03-279A-400F-9E25-B112146F3A7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{3FCA5D72-FA48-446F-A01E-8920750999CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorFacebook", "PadroesComportamentais\Mediator\MediatorFacebook\MediatorFacebook.csproj", "{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "PadroesComportamentais\Mediator\Structural\Structural.csproj", "{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediadorChat", "PadroesComportamentais\Mediator\MediadorChat\MediadorChat.csproj", "{081926C4-B395-4465-B235-03D297E3FB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMediatR", "PadroesComportamentais\Mediator\ApiMediatR\ApiMediatR.csproj", "{6B5462DA-2249-468A-B88E-1098D5FC0720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorreAviacao", "PadroesComportamentais\Mediator\TorreAviacao\TorreAviacao.csproj", "{3256762F-05BF-418B-B096-F1F8BB602EE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -597,6 +609,26 @@ Global
 		{05A84E03-279A-400F-9E25-B112146F3A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A84E03-279A-400F-9E25-B112146F3A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A84E03-279A-400F-9E25-B112146F3A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081926C4-B395-4465-B235-03D297E3FB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081926C4-B395-4465-B235-03D297E3FB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081926C4-B395-4465-B235-03D297E3FB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081926C4-B395-4465-B235-03D297E3FB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5462DA-2249-468A-B88E-1098D5FC0720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5462DA-2249-468A-B88E-1098D5FC0720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5462DA-2249-468A-B88E-1098D5FC0720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5462DA-2249-468A-B88E-1098D5FC0720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -727,6 +759,12 @@ Global
 		{5A622393-6F50-4DB2-9F2A-37B0D471F55C} = {67CF3200-7FE3-4011-A5CA-F0DDBC98524F}
 		{CE458C78-A47E-46F0-AC75-6F326A24BF7C} = {67CF3200-7FE3-4011-A5CA-F0DDBC98524F}
 		{05A84E03-279A-400F-9E25-B112146F3A7B} = {67CF3200-7FE3-4011-A5CA-F0DDBC98524F}
+		{3FCA5D72-FA48-446F-A01E-8920750999CF} = {019018A9-27D5-42FB-A1EA-DCC67F67525A}
+		{3A2BB1FE-7B07-41C6-A51F-8412A97FC286} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
+		{CE3D42BE-4C1F-492E-A423-0FFDA68B625B} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
+		{081926C4-B395-4465-B235-03D297E3FB4D} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
+		{6B5462DA-2249-468A-B88E-1098D5FC0720} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
+		{3256762F-05BF-418B-B096-F1F8BB602EE6} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66D654A7-2EFD-40C3-9C29-6161F208FF3C}

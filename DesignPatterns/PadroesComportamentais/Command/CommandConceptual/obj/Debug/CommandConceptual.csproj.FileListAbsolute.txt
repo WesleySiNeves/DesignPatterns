@@ -5,3 +5,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Com
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\bin\Debug\CommandConceptual.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.exe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CommandConceptual\obj\Debug\CommandConceptual.csproj.AssemblyReference.cache

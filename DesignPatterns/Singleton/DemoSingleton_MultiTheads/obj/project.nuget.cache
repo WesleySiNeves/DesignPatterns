@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GWDwnl4jhVnjIc4BUK0G9+K1UAH3m4DawjOQ8y2zwgKeM01G6uumSxYm31ZAhZbISCLSooFOxs+nbhNA7fkfVA==",
+  "dgSpecHash": "6pO/nFOHQvIf6o/Q0w+Nb06nBXhWVPrFhVE+1J/bSJm9qL2njn67CsUldxrcH0X+o+CGCLqkvFJMQ99vu9J1wA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\DemoSingleton_MultiTheads\\DemoSingleton_MultiTheads.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

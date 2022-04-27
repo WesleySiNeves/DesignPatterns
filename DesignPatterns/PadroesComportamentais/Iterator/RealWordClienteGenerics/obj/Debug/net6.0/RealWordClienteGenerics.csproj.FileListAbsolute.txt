@@ -1,0 +1,5 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWordClienteGenerics\obj\Debug\net6.0\RealWordClienteGenerics.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWordClienteGenerics\obj\Debug\net6.0\RealWordClienteGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWordClienteGenerics\obj\Debug\net6.0\RealWordClienteGenerics.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWordClienteGenerics\obj\Debug\net6.0\RealWordClienteGenerics.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\RealWordClienteGenerics\obj\Debug\net6.0\RealWordClienteGenerics.csproj.CoreCompileInputs.cache

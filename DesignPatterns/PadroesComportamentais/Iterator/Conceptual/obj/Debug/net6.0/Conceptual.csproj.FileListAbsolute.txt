@@ -2,7 +2,6 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Co
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\bin\Debug\net6.0\Conceptual.deps.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\bin\Debug\net6.0\Conceptual.runtimeconfig.json
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\bin\Debug\net6.0\Conceptual.dll
-D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\bin\Debug\net6.0\ref\Conceptual.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\bin\Debug\net6.0\Conceptual.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\Conceptual.csproj.AssemblyReference.cache
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\Conceptual.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Co
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\ref\Conceptual.dll
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\Conceptual.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\Conceptual.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Iterator\Conceptual\obj\Debug\net6.0\refint\Conceptual.dll

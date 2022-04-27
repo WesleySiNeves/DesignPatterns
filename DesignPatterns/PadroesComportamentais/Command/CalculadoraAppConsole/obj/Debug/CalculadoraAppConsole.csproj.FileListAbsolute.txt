@@ -5,3 +5,4 @@ D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\Cal
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\bin\Debug\CalculadoraAppConsole.pdb
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.exe
 D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Command\CalculadoraAppConsole\obj\Debug\CalculadoraAppConsole.csproj.AssemblyReference.cache

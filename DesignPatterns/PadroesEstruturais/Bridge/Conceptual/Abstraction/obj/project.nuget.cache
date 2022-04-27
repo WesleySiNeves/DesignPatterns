@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BX2s+AlQoZBHh1VAfCxZM7J9vBTQLV27gd2LY23OCnhcmSBWGKnrJN/GqzjOk6iUgrw9Yjb8NsgCr7Hx9v/uEw==",
+  "dgSpecHash": "uvnUw3N7d35fOHVBy6JuNAUbIO9G+upKM9zy0QnZB7W6P0N6MsS1qGxphgwD5WiPFJcmtvvq6+bcHu5LBYeInA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Bridge\\Conceptual\\Abstraction\\Conceptual.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

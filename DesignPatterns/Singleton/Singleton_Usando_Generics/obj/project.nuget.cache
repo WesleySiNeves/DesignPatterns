@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W5hUO4eBYZ1+tgc0H+RCZzBROR12BPGG2g+7lSAdCcF+DaBpNmFQi8jMC5qvws5KDpHHf+NVcB0PJkd7Lo3Zew==",
+  "dgSpecHash": "bA6MYHzSJD99fmQi+3YiEnrcsws19jZfJLl3lARPPaptwTrt0mBko3pCg3ZxHPdTLIC2mgP/KXSVDPt7WU2jyA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton_Usando_Generics\\Singleton_Usando_Generics.csproj",
   "expectedPackageFiles": [
