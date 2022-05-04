@@ -267,13 +267,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{3F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorFacebook", "PadroesComportamentais\Mediator\MediatorFacebook\MediatorFacebook.csproj", "{3A2BB1FE-7B07-41C6-A51F-8412A97FC286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "PadroesComportamentais\Mediator\Structural\Structural.csproj", "{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural", "PadroesComportamentais\Mediator\Structural\Structural.csproj", "{CE3D42BE-4C1F-492E-A423-0FFDA68B625B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediadorChat", "PadroesComportamentais\Mediator\MediadorChat\MediadorChat.csproj", "{081926C4-B395-4465-B235-03D297E3FB4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediadorChat", "PadroesComportamentais\Mediator\MediadorChat\MediadorChat.csproj", "{081926C4-B395-4465-B235-03D297E3FB4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiMediatR", "PadroesComportamentais\Mediator\ApiMediatR\ApiMediatR.csproj", "{6B5462DA-2249-468A-B88E-1098D5FC0720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiMediatR", "PadroesComportamentais\Mediator\ApiMediatR\ApiMediatR.csproj", "{6B5462DA-2249-468A-B88E-1098D5FC0720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorreAviacao", "PadroesComportamentais\Mediator\TorreAviacao\TorreAviacao.csproj", "{3256762F-05BF-418B-B096-F1F8BB602EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorreAviacao", "PadroesComportamentais\Mediator\TorreAviacao\TorreAviacao.csproj", "{3256762F-05BF-418B-B096-F1F8BB602EE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Memento", "Memento", "{071C69A1-0E3B-466F-9846-354146355D7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MementoCalc", "PadroesComportamentais\Memento\MementoCalc\MementoCalc.csproj", "{0E0B76B5-0327-4462-B8FF-878893EA279A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural", "PadroesComportamentais\Memento\Structural\Structural.csproj", "{61CD512D-6E87-4F26-926E-5888FC416D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudanteMemento", "PadroesComportamentais\Memento\SalesProspectMemento\EstudanteMemento.csproj", "{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcMementoGenerateSenhasConsole", "PadroesComportamentais\Memento\CalcMementoGenerateSenhasConsole\CalcMementoGenerateSenhasConsole.csproj", "{F660293E-98BD-4BED-BCCE-AD3FBA42F92B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -629,6 +639,22 @@ Global
 		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3256762F-05BF-418B-B096-F1F8BB602EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0B76B5-0327-4462-B8FF-878893EA279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0B76B5-0327-4462-B8FF-878893EA279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0B76B5-0327-4462-B8FF-878893EA279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0B76B5-0327-4462-B8FF-878893EA279A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CD512D-6E87-4F26-926E-5888FC416D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CD512D-6E87-4F26-926E-5888FC416D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CD512D-6E87-4F26-926E-5888FC416D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CD512D-6E87-4F26-926E-5888FC416D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F660293E-98BD-4BED-BCCE-AD3FBA42F92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F660293E-98BD-4BED-BCCE-AD3FBA42F92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F660293E-98BD-4BED-BCCE-AD3FBA42F92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F660293E-98BD-4BED-BCCE-AD3FBA42F92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -765,6 +791,11 @@ Global
 		{081926C4-B395-4465-B235-03D297E3FB4D} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
 		{6B5462DA-2249-468A-B88E-1098D5FC0720} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
 		{3256762F-05BF-418B-B096-F1F8BB602EE6} = {3FCA5D72-FA48-446F-A01E-8920750999CF}
+		{071C69A1-0E3B-466F-9846-354146355D7D} = {019018A9-27D5-42FB-A1EA-DCC67F67525A}
+		{0E0B76B5-0327-4462-B8FF-878893EA279A} = {071C69A1-0E3B-466F-9846-354146355D7D}
+		{61CD512D-6E87-4F26-926E-5888FC416D3A} = {071C69A1-0E3B-466F-9846-354146355D7D}
+		{8E1E9D62-9E10-48CC-A1B7-E6F3C9B4F5AF} = {071C69A1-0E3B-466F-9846-354146355D7D}
+		{F660293E-98BD-4BED-BCCE-AD3FBA42F92B} = {071C69A1-0E3B-466F-9846-354146355D7D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66D654A7-2EFD-40C3-9C29-6161F208FF3C}

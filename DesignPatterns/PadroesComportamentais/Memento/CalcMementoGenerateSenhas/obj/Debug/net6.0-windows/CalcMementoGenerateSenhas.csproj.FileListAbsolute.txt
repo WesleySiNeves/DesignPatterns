@@ -1,0 +1,17 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.Form1.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.csproj.GenerateResource.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\bin\Debug\net6.0-windows\CalcMementoGenerateSenhas.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\bin\Debug\net6.0-windows\CalcMementoGenerateSenhas.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\bin\Debug\net6.0-windows\CalcMementoGenerateSenhas.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\bin\Debug\net6.0-windows\CalcMementoGenerateSenhas.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\bin\Debug\net6.0-windows\CalcMementoGenerateSenhas.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\refint\CalcMementoGenerateSenhas.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\CalcMementoGenerateSenhas.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\CalcMementoGenerateSenhas\obj\Debug\net6.0-windows\ref\CalcMementoGenerateSenhas.dll

@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\bin\Debug\net6.0\EstudanteMemento.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\bin\Debug\net6.0\EstudanteMemento.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\bin\Debug\net6.0\EstudanteMemento.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\bin\Debug\net6.0\EstudanteMemento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\bin\Debug\net6.0\EstudanteMemento.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\refint\EstudanteMemento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\EstudanteMemento.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\SalesProspectMemento\obj\Debug\net6.0\ref\EstudanteMemento.dll

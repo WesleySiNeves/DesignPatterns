@@ -1,0 +1,17 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\bin\Debug\net6.0-windows\MementoCalc.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\bin\Debug\net6.0-windows\MementoCalc.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\bin\Debug\net6.0-windows\MementoCalc.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\bin\Debug\net6.0-windows\MementoCalc.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\bin\Debug\net6.0-windows\MementoCalc.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.Form1.resources
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.csproj.GenerateResource.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\refint\MementoCalc.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\MementoCalc.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Memento\MementoCalc\obj\Debug\net6.0-windows\ref\MementoCalc.dll
