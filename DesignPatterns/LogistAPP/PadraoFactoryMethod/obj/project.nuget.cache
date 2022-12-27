@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m2oUWj/9Iz1CBNfp/dHS9xscZJpcBG8zB1dfHoQfnsZWHjGvXd8JkNAfoDDImpn1U1vwgGUd5JAoL5034FStHg==",
+  "dgSpecHash": "kLSxpfnOlvfSIS0q2CoPhHocYN/iXsjTZQHmoSGNQ15xfyYjv5/aQMEK4ke62kshAMu5TheZPgOfSZdGfBfamg==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LogistAPP\\PadraoFactoryMethod\\PadraoFactoryMethod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],
   "logs": []
 }

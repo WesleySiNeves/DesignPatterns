@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0w5TQIU+grd7lWgVhBJAV253Fkb3ziW2T5oVNwSCoLV7AlNNzRVn9LHZoGal2sBU9wWU12zsO8dKu6ohZ93Ydw==",
+  "dgSpecHash": "/hZT+6nw5K/nqIN628FV7muL9zqSapfZIlMobI0ydRtgzYhvcZRL1ve2BLfcAEFOjP5xlUDR4qHIP7/cp2RYVw==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\LocadoraCarro\\ExemploLocadoraVeiculos\\PadraoFactoryMethod.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.dependencyvalidation.analyzers\\0.11.0\\microsoft.dependencyvalidation.analyzers.0.11.0.nupkg.sha512"
   ],
   "logs": []
 }

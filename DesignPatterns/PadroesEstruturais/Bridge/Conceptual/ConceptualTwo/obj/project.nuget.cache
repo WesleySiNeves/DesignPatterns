@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWnDvadZ1zeC8uoSfVm3Hc/bGeRU3KLDT52dPsSBG7OfLLoOWGeE6q9sRY9bpD6JRmBmjJF0VIu47er0F2isrw==",
+  "dgSpecHash": "VCCC+w4evOoXKv6FrwGPUCTNabCZw6+Kl+K3Sl5kcfn497LFYyMwQGc4PXApeYHrRH2woyknv4kFAXJxgzr7SA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Bridge\\Conceptual\\ConceptualTwo\\ConceptualTwo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

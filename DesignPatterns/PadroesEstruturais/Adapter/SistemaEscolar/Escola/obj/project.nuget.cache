@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fp+9TyINkXY0Um5QScNWVo+NaFEpCVdB//vsatQUcVQZZIajZn4UrBlEKLb6orKhaR2yeOW2DzbXyeM7Lbzz8w==",
+  "dgSpecHash": "ZfdjeSxqVqbd/PXvRkAG2qA+sYUEKddZknqDANj6Cnx/qnPlSOEOfTmXO16h4Zm9R7Uwm8x+PxSPh0UhnsO1BA==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Adapter\\SistemaEscolar\\Escola\\Escola.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

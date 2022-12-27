@@ -19,8 +19,6 @@ Caretaker m = new Caretaker();
 
 m.Memento = estudante.CreateMemento();
 
-operaraco.Erro
-
 
 // Continue changing originator
 estudante.Idade = 14;

@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\bin\Debug\net6.0\Investimento.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\bin\Debug\net6.0\Investimento.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\bin\Debug\net6.0\Investimento.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\bin\Debug\net6.0\Investimento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\bin\Debug\net6.0\Investimento.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\refint\Investimento.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\Investimento.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\Investimento\obj\Debug\net6.0\ref\Investimento.dll

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QYTPqa/alCv8UOz/Rz0CQoBCYpFxj33XIYLn/XPwoVNYiwo/4WpgOIwmN9e3jK04Q7Id9OrekNk0lKQmeWdevw==",
+  "dgSpecHash": "J26/VZfhgOgThaM474nRhYKPTopYi22ZCCuBtImfjjz4DTBL5M4CcH3d1ZTD7+BXsGD0KoCHzTwU1w3n9B97Ig==",
   "success": true,
   "projectFilePath": "D:\\Wesley\\repos\\DesignPatterns\\DesignPatterns\\PadroesEstruturais\\Proxy\\VideoLibrary\\VideoLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\wesley.neves\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

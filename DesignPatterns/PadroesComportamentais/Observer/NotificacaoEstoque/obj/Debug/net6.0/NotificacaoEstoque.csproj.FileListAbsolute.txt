@@ -1,0 +1,15 @@
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.csproj.AssemblyReference.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.AssemblyInfoInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.AssemblyInfo.cs
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.csproj.CoreCompileInputs.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\bin\Debug\net6.0\NotificacaoEstoque.exe
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\bin\Debug\net6.0\NotificacaoEstoque.deps.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\bin\Debug\net6.0\NotificacaoEstoque.runtimeconfig.json
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\bin\Debug\net6.0\NotificacaoEstoque.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\bin\Debug\net6.0\NotificacaoEstoque.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\refint\NotificacaoEstoque.dll
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.pdb
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\NotificacaoEstoque.genruntimeconfig.cache
+D:\Wesley\repos\DesignPatterns\DesignPatterns\PadroesComportamentais\Observer\NotificacaoEstoque\obj\Debug\net6.0\ref\NotificacaoEstoque.dll
